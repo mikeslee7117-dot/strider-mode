@@ -47,18 +47,18 @@ const SOLO_JOURNEY_EVENTS = {
 
 // Feat die normalization used by this module:
 // 0 = Eye of Sauron, 1..10 = numeric results, 11 = Gandalf rune
-export function normalizeFeatResult(result) {
+function normalizeFeatResult(result) {
   if (result < 0 || result > 11) {
     throw new Error("Feat die result must be in range 0..11");
   }
   return result;
 }
 
-export function calculateSoloTargetNumber(attributeScore) {
+function calculateSoloTargetNumber(attributeScore) {
   return 18 - attributeScore;
 }
 
-export function calculateStartingEyeAwareness({
+function calculateStartingEyeAwareness({
   valour,
   culture,
   hasHighElfCulture = false,
@@ -76,7 +76,7 @@ export function calculateStartingEyeAwareness({
   return score;
 }
 
-export function huntThreshold(region, modifier = 0) {
+function huntThreshold(region, modifier = 0) {
   const base = REGION_HUNT_THRESHOLD[String(region).toLowerCase()];
   if (typeof base !== "number") {
     throw new Error("Region must be one of: border, wild, dark");
@@ -84,11 +84,11 @@ export function huntThreshold(region, modifier = 0) {
   return base + modifier;
 }
 
-export function applyEyeAwarenessIncrease(current, delta) {
+function applyEyeAwarenessIncrease(current, delta) {
   return Math.max(0, current + delta);
 }
 
-export function checkRevelationEpisode({ eyeAwareness, threshold }) {
+function checkRevelationEpisode({ eyeAwareness, threshold }) {
   if (eyeAwareness < threshold) {
     return { revealed: false };
   }
@@ -98,7 +98,7 @@ export function checkRevelationEpisode({ eyeAwareness, threshold }) {
   };
 }
 
-export function rollTellingTable({ chance, featResult }) {
+function rollTellingTable({ chance, featResult }) {
   const f = normalizeFeatResult(featResult);
 
   if (f === 11) return { yes: true, twist: true, reason: "gandalf_rune" };
@@ -112,14 +112,14 @@ export function rollTellingTable({ chance, featResult }) {
   return { yes: f >= min, twist: false };
 }
 
-export function soloJourneyEventFromFeat(featResult) {
+function soloJourneyEventFromFeat(featResult) {
   const f = normalizeFeatResult(featResult);
   const event = SOLO_JOURNEY_EVENTS[f];
   if (!event) throw new Error("Invalid feat result");
   return event;
 }
 
-export function revelationEpisodeFromFeat(featResult) {
+function revelationEpisodeFromFeat(featResult) {
   const f = normalizeFeatResult(featResult);
   const index = f === 11 ? 11 : f === 0 ? 0 : Math.min(10, Math.max(1, f));
   return {
@@ -128,7 +128,7 @@ export function revelationEpisodeFromFeat(featResult) {
   };
 }
 
-export function skirmishStanceModifiers() {
+function skirmishStanceModifiers() {
   return {
     yourRangedAttacks: -1,
     incomingMeleeAgainstYou: -1,
@@ -138,3 +138,16 @@ export function skirmishStanceModifiers() {
     task: "gain_ground",
   };
 }
+
+module.exports = {
+  normalizeFeatResult,
+  calculateSoloTargetNumber,
+  calculateStartingEyeAwareness,
+  huntThreshold,
+  applyEyeAwarenessIncrease,
+  checkRevelationEpisode,
+  rollTellingTable,
+  soloJourneyEventFromFeat,
+  revelationEpisodeFromFeat,
+  skirmishStanceModifiers,
+};

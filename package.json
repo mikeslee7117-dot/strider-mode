@@ -1,0 +1,10 @@
+{
+  "name": "strider-mode-cli",
+  "version": "0.1.0",
+  "description": "Interactive text-based solo RPG in Tolkien's Middle-earth using The One Ring Strider Mode inspired mechanics.",
+  "main": "src/cli.js",
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "license": "UNLICENSED"
+}
