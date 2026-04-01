@@ -69,7 +69,7 @@ async function fetchState() {
   if (!res.ok) throw new Error("Unable to load game state");
   const data = await res.json();
   renderStateCards(data);
-  appendEntry("system", "Road and weather are set. Type intro or help to begin.");
+  appendEntry("system", "The DM is ready. Describe what you do in plain language. Use /help for command mode.");
 }
 
 async function sendCommand(command) {
@@ -77,6 +77,25 @@ async function sendCommand(command) {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ command }),
+  });
+
+  const data = await res.json();
+  if (!res.ok) {
+    appendEntry("system", `Error: ${data.error || "unknown"}`);
+    return;
+  }
+
+  appendEntry("system", data.output || "(No output)");
+  if (data.hero && data.campaign) {
+    renderStateCards(data);
+  }
+}
+
+async function sendPlay(action) {
+  const res = await fetch("/api/play", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ action }),
   });
 
   const data = await res.json();
@@ -100,7 +119,11 @@ formEl.addEventListener("submit", async (event) => {
   inputEl.value = "";
 
   try {
-    await sendCommand(command);
+    if (command.startsWith("/")) {
+      await sendCommand(command.slice(1));
+    } else {
+      await sendPlay(command);
+    }
   } catch (err) {
     appendEntry("system", `Error: ${err.message}`);
   }

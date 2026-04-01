@@ -31,6 +31,16 @@ Then open `http://localhost:3030`.
 
 The web app uses the same game/session engine and `savegame.json` as the CLI.
 
+## DM-First Play Loop
+
+- In the browser, type natural language actions (example: `I scout the old road for Orc tracks.`).
+- The app now adjudicates your action like a solo dungeon master:
+  - picks a fitting skill,
+  - rolls and applies consequences,
+  - advances mission/eye/shadow state,
+  - returns atmospheric narration plus mechanical resolution.
+- Prefix input with `/` to run direct commands instead (example: `/status`, `/combat start hard`).
+
 ## Optional AI Narration
 
 Set environment variables before launch:
@@ -54,6 +64,7 @@ If no API key is set, the game uses local fallback narration.
 - `tell <chance> <question>` - oracle question; chance in `certain|likely|middling|doubtful|unthinkable`
 - `lore` - generate a lore prompt
 - `travel <border|wild|dark>` - trigger solo journey event
+- `act <freeform action>` - DM adjudicates a narrative action turn
 - `combat start [easy|normal|hard]` - begin an encounter
 - `combat status` - show encounter state
 - `combat stance <forward|open|defensive|skirmish>` - pick stance

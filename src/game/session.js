@@ -2,6 +2,7 @@ const { randomInt, pickOne } = require("./rng");
 const { rollLorePrompt } = require("./loreTable");
 const { narrate } = require("./narrator");
 const { advanceMission, generateMission } = require("./missions");
+const { runDmTurn, ensureDmState } = require("./dm");
 const {
   createEncounter,
   setStance,
@@ -191,6 +192,7 @@ async function handleCommand(state, input) {
       "  tell <chance> <question>      - ask the Telling Table",
       "  lore                          - generate a Lore Table prompt",
       "  travel <border|wild|dark>     - trigger a solo journey event",
+      "  act <freeform action>         - let the AI DM adjudicate your action",
       "  combat start [easy|normal|hard] - begin combat encounter",
       "  combat status                 - inspect active combat",
       "  combat stance <forward|open|defensive|skirmish>",
@@ -372,6 +374,13 @@ async function handleCommand(state, input) {
     ].filter(Boolean).join("\n");
   }
 
+  if (cmd === "act") {
+    const actionText = rest.join(" ").trim();
+    if (!actionText) return "Usage: act <freeform action>";
+    const result = await runDmTurn(state, actionText);
+    return result.output;
+  }
+
   if (cmd === "combat") {
     const sub = (rest[0] || "").toLowerCase();
 
@@ -486,6 +495,7 @@ async function handleCommand(state, input) {
 
 function initializeCampaignState(state) {
   setupEyeAwareness(state);
+  ensureDmState(state);
 }
 
 module.exports = {

@@ -3,6 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const { loadState, saveState } = require("../game/state");
 const { initializeCampaignState, handleCommand } = require("../game/session");
+const { runDmTurn, ensureDmState } = require("../game/dm");
 
 const PORT = Number(process.env.PORT || 3030);
 const PUBLIC_DIR = path.join(__dirname, "public");
@@ -12,6 +13,7 @@ if (!state.campaign.eyeAwareness || state.campaign.eyeAwareness < 0) {
   initializeCampaignState(state);
   saveState(state);
 }
+ensureDmState(state);
 
 function readJsonBody(req) {
   return new Promise((resolve, reject) => {
@@ -81,7 +83,32 @@ const server = http.createServer(async (req, res) => {
           eyeAwareness: state.campaign.eyeAwareness,
           mission: state.campaign.mission,
           combat: state.campaign.combat || null,
+          dm: state.campaign.dm || null,
           lastLog: state.campaign.log.slice(-16),
+        },
+      });
+      return;
+    }
+
+    if (req.method === "POST" && req.url === "/api/play") {
+      const body = await readJsonBody(req);
+      const action = String(body.action || "").trim();
+      if (!action) {
+        sendJson(res, 400, { error: "Missing action" });
+        return;
+      }
+
+      const result = await runDmTurn(state, action);
+      saveState(state);
+      sendJson(res, 200, {
+        output: result.output,
+        hero: state.hero,
+        campaign: {
+          region: state.campaign.region,
+          eyeAwareness: state.campaign.eyeAwareness,
+          mission: state.campaign.mission,
+          combat: state.campaign.combat || null,
+          dm: state.campaign.dm || null,
         },
       });
       return;
