@@ -149,6 +149,33 @@ function checkRevelation(state) {
   return episode;
 }
 
+function buildNextOptions(state, action, roll) {
+  const options = [];
+  const mission = state.campaign.mission;
+
+  if (!mission.completed) {
+    options.push(`Press on toward ${mission.location} to advance your mission.`);
+  }
+
+  if (roll.success) {
+    options.push("Use this momentum to scout ahead before danger regroups.");
+  } else {
+    options.push("Regain control with a cautious, low-risk approach.");
+  }
+
+  if (action.includes("fight") || action.includes("attack") || action.includes("orc")) {
+    options.push("Shift position and prepare either an ambush or a retreat.");
+  } else {
+    options.push("Approach someone nearby and seek rumor, guidance, or shelter.");
+  }
+
+  while (options.length < 3) {
+    options.push("Pause to rest, watch, and decide your next move.");
+  }
+
+  return options.slice(0, 3);
+}
+
 async function runDmTurn(state, actionText) {
   ensureDmState(state);
 
@@ -177,34 +204,32 @@ async function runDmTurn(state, actionText) {
   ].filter(Boolean).join("\n");
 
   const narrativePrompt = [
-    `Player action: ${action}`,
-    `Roll: ${roll.success ? "success" : "failure"}.`,
-    `Consequences: ${outcomes.join(" ") || "No major shift."}`,
-    revelation ? `Revelation: ${revelation.text}` : "",
-    `Mission: ${state.campaign.mission.objective} at ${state.campaign.mission.location} (${state.campaign.mission.progress}/${state.campaign.mission.stepsRequired}).`,
-    "Write like a solo dungeon master: resolve the action, show consequences, then present 3 concrete next options.",
+    `Hero action: ${action}`,
+    `Result: ${roll.success ? "success" : "failure"}.`,
+    `Current region: ${state.campaign.region}.`,
+    `Mission: ${state.campaign.mission.objective} at ${state.campaign.mission.location}.`,
+    outcomes.length ? `Consequences: ${outcomes.join(" ")}` : "",
+    revelation ? `Ominous turn: ${revelation.text}` : "",
+    "Narrate what the hero now sees, hears, and senses in the immediate scene.",
+    "Keep it immersive and concrete. Do not mention rules, dice, or mechanics.",
   ].filter(Boolean).join("\n");
 
-  const narration = await narrate("action", state, narrativePrompt);
+  const narration = await narrate("dm_turn", state, narrativePrompt);
   state.campaign.dm.lastSummary = mechanicalSummary;
   appendLog(state, `DM TURN ${state.campaign.dm.turn}: ${action}`);
 
-  const nextOptions = [
-    "Press the advantage toward your mission objective.",
-    "Take a cautious approach to gather information first.",
-    "Withdraw, recover, and seek a safer path.",
-  ];
+  const nextOptions = buildNextOptions(state, action.toLowerCase(), roll);
 
   const playerPrompt = [
-    "What do you do next?",
+    "What do you do?",
     `1) ${nextOptions[0]}`,
     `2) ${nextOptions[1]}`,
     `3) ${nextOptions[2]}`,
-    "You can also describe any other action in your own words.",
+    "Or describe any other action in your own words.",
   ].join("\n");
 
   return {
-    output: `${narration}\n\n${mechanicalSummary}\n\n${playerPrompt}`,
+    output: `${narration}\n\n${playerPrompt}`,
     roll,
     outcomes,
     revelation: revelation ? revelation.text : null,

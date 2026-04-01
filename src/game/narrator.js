@@ -29,6 +29,29 @@ function fallbackNarration(eventType, state, contextText) {
   if (eventType === "action") {
     return `Your choice shapes the tale. ${contextText}`;
   }
+  if (eventType === "dm_turn") {
+    const lines = String(contextText || "").split("\n");
+    const actionLine = lines.find((l) => l.startsWith("Hero action:")) || "";
+    const resultLine = lines.find((l) => l.startsWith("Result:")) || "";
+    const actionText = actionLine.replace("Hero action:", "").trim();
+    const resultText = resultLine.replace("Result:", "").trim();
+    const cleanResult = resultText.replace(/\.$/, "");
+    const normalizedAction = actionText
+      ? `${actionText.charAt(0).toUpperCase()}${actionText.slice(1)}`
+      : "";
+    const actionSentence = normalizedAction
+      ? (/^i\s/i.test(normalizedAction)
+          ? `${normalizedAction}.`
+          : `You attempt to ${normalizedAction}.`)
+      : "You move carefully, testing each choice against the long shadow.";
+
+    return [
+      `Mist gathers across the ${s.region} lands as ${s.hero} presses onward toward ${s.mission.location}.`,
+      actionSentence,
+      cleanResult ? `For now, fortune offers a ${cleanResult}.` : "For now, fate remains uncertain.",
+      `Each step now may draw you closer to your goal, or closer to the Eye.`,
+    ].join(" ");
+  }
   if (eventType === "revelation") {
     return `A cold certainty settles over you: the Eye has turned your way. ${contextText}`;
   }
