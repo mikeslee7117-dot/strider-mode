@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Strider Mode Solo RPG</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="ambient"></div>
+    <main class="layout">
+      <section class="panel panel-log">
+        <header class="panel-header">
+          <h1>Strider Mode</h1>
+          <p>Solo roads through Middle-earth</p>
+        </header>
+        <div id="output" class="output" aria-live="polite"></div>
+        <form id="command-form" class="command-bar">
+          <input id="command-input" type="text" placeholder="Type a command (help, intro, travel wild, combat start)..." autocomplete="off" />
+          <button type="submit">Send</button>
+        </form>
+      </section>
+
+      <aside class="panel panel-state">
+        <h2>Companion Ledger</h2>
+        <div id="state-cards" class="cards"></div>
+        <p class="hint">Try: intro, status, mission, travel wild, combat start normal</p>
+      </aside>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
