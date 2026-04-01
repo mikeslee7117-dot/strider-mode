@@ -3,6 +3,14 @@ const { rollLorePrompt } = require("./loreTable");
 const { narrate } = require("./narrator");
 const { advanceMission, generateMission } = require("./missions");
 const {
+  createEncounter,
+  setStance,
+  heroAttack,
+  foeAttackHero,
+  fleeAttempt,
+  listAliveFoes,
+} = require("./combat");
+const {
   calculateSoloTargetNumber,
   calculateStartingEyeAwareness,
   huntThreshold,
@@ -150,6 +158,21 @@ function journeyEventSkill(eventKey) {
   return pickOne(map[eventKey] || ["travel"]);
 }
 
+function formatCombatStatus(encounter) {
+  const alive = listAliveFoes(encounter);
+  const lines = [
+    `Combat: ${encounter.active ? "ACTIVE" : "ENDED"}`,
+    `Round: ${encounter.round}`,
+    `Hero stance: ${encounter.heroStance}`,
+    `Foes alive: ${alive.length}/${encounter.foes.length}`,
+  ];
+
+  for (const foe of encounter.foes) {
+    lines.push(`- ${foe.name}: ${foe.endurance}/${foe.maxEndurance} ${foe.alive ? "" : "(down)"}`.trim());
+  }
+  return lines.join("\n");
+}
+
 async function handleCommand(state, input) {
   const trimmed = String(input || "").trim();
   if (!trimmed) return "Type help to see commands.";
@@ -168,6 +191,12 @@ async function handleCommand(state, input) {
       "  tell <chance> <question>      - ask the Telling Table",
       "  lore                          - generate a Lore Table prompt",
       "  travel <border|wild|dark>     - trigger a solo journey event",
+      "  combat start [easy|normal|hard] - begin combat encounter",
+      "  combat status                 - inspect active combat",
+      "  combat stance <forward|open|defensive|skirmish>",
+      "  combat attack [skill]         - take a combat round action",
+      "  combat flee                   - attempt escape",
+      "  combat end                    - force end current combat",
       "  narrate <free text>           - request AI narration",
       "  rest                          - recover 1 Hope, reduce fatigue by 1",
       "  newmission                    - generate a new mission",
@@ -192,7 +221,9 @@ async function handleCommand(state, input) {
       `Region: ${state.campaign.region} | Safe Haven: ${state.campaign.safeHaven}`,
       `Eye Awareness: ${state.campaign.eyeAwareness}`,
       `Mission: ${mission.objective} at ${mission.location} (${mission.progress}/${mission.stepsRequired})`,
+      `Hook: ${mission.hook || "N/A"}`,
       `Milestones: AP=${state.hero.milestones.adventurePoints} SP=${state.hero.milestones.skillPoints}`,
+      state.campaign.combat ? `Combat: active (${listAliveFoes(state.campaign.combat).length} foes standing)` : "Combat: none",
     ].join("\n");
   }
 
@@ -203,6 +234,7 @@ async function handleCommand(state, input) {
       `Objective: ${m.objective}`,
       `Location: ${m.location}`,
       `Urgency: ${m.urgency}`,
+      `Hook: ${m.hook || "N/A"}`,
       `Progress: ${m.progress}/${m.stepsRequired}${m.completed ? " (COMPLETED)" : ""}`,
     ].join("\n");
   }
@@ -338,6 +370,95 @@ async function handleCommand(state, input) {
       revelation ? `REVELATION EPISODE: ${revelation.text}` : "",
       `Fatigue now: ${state.hero.fatigue}`,
     ].filter(Boolean).join("\n");
+  }
+
+  if (cmd === "combat") {
+    const sub = (rest[0] || "").toLowerCase();
+
+    if (sub === "start") {
+      if (state.campaign.combat && state.campaign.combat.active) {
+        return "Combat is already active. Use combat status or combat attack.";
+      }
+      const difficulty = (rest[1] || "normal").toLowerCase();
+      state.campaign.combat = createEncounter(state.campaign.region, difficulty);
+      appendLog(state, `COMBAT START: ${difficulty}`);
+      const intro = await narrate("action", state, `A combat encounter erupts in ${state.campaign.region} lands.`);
+      return `${intro}\n${formatCombatStatus(state.campaign.combat)}`;
+    }
+
+    if (!state.campaign.combat) {
+      return "No combat encounter. Use combat start [difficulty].";
+    }
+
+    const encounter = state.campaign.combat;
+
+    if (sub === "status") {
+      return formatCombatStatus(encounter);
+    }
+
+    if (sub === "stance") {
+      const stance = (rest[1] || "").toLowerCase();
+      if (!stance) return "Usage: combat stance <forward|open|defensive|skirmish>";
+      const ok = setStance(encounter, stance);
+      if (!ok) return "Unknown stance. Choose: forward, open, defensive, skirmish.";
+      appendLog(state, `COMBAT STANCE: ${stance}`);
+      return `You adopt a ${stance} stance.`;
+    }
+
+    if (sub === "attack") {
+      if (!encounter.active) return "Combat has ended. Use combat start for a new encounter.";
+
+      const skill = (rest[1] || "battle").toLowerCase();
+      const attackRoll = rollSkill(state, skill);
+      const heroEvent = heroAttack({ encounter, hero: state.hero, attackRoll });
+      const foeEvents = foeAttackHero({ encounter, hero: state.hero });
+      encounter.round += 1;
+
+      if (state.hero.endurance.current <= state.hero.fatigue) {
+        state.hero.weary = true;
+      }
+
+      let outcome = "";
+      if (encounter.won) {
+        state.hero.milestones.adventurePoints += 1;
+        outcome = "You have survived a dangerous combat. +1 Adventure Point.";
+        appendLog(state, "COMBAT WON");
+      } else if (encounter.lost) {
+        outcome = "You are defeated and darkness closes in around you.";
+        appendLog(state, "COMBAT LOST");
+      }
+
+      const narration = await narrate("action", state, `Combat round with ${skill}. ${heroEvent.text}`);
+
+      return [
+        narration,
+        `Attack roll feat: ${attackRoll.featText} | total ${attackRoll.total} | ${attackRoll.success ? "hit attempt viable" : "poor strike"}`,
+        heroEvent.text,
+        ...foeEvents,
+        outcome,
+        formatCombatStatus(encounter),
+      ].filter(Boolean).join("\n");
+    }
+
+    if (sub === "flee") {
+      if (!encounter.active) return "Combat has already ended.";
+      const roll = rollSkill(state, "travel");
+      const flee = fleeAttempt({ encounter, hero: state.hero, roll });
+      appendLog(state, `COMBAT FLEE: ${flee.escaped ? "escaped" : "failed"}`);
+      return [
+        `Flee roll feat: ${roll.featText}, total ${roll.total}`,
+        flee.text,
+        formatCombatStatus(encounter),
+      ].join("\n");
+    }
+
+    if (sub === "end") {
+      encounter.active = false;
+      appendLog(state, "COMBAT ENDED MANUALLY");
+      return "Combat encounter ended.";
+    }
+
+    return "Usage: combat <start|status|stance|attack|flee|end> ...";
   }
 
   if (cmd === "narrate") {

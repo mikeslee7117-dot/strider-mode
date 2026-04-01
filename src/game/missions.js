@@ -1,4 +1,5 @@
 const { pickOne, randomInt } = require("./rng");
+const { randomLocation, randomThreat, randomHeading } = require("./content");
 
 const patrons = [
   "Balin, son of Fundin",
@@ -38,12 +39,17 @@ const stakes = [
 ];
 
 function generateMission() {
+  const location = randomLocation();
+  const threat = randomThreat();
+  const hook = randomHeading();
+
   const stepsRequired = randomInt(2, 4);
   return {
     patron: pickOne(patrons),
-    objective: pickOne(objectives),
-    location: pickOne(locations),
+    objective: `${pickOne(objectives)} involving ${threat}`,
+    location,
     urgency: pickOne(stakes),
+    hook,
     progress: 0,
     stepsRequired,
     completed: false,
