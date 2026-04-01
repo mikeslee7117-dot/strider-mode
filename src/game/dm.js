@@ -189,8 +189,22 @@ async function runDmTurn(state, actionText) {
   state.campaign.dm.lastSummary = mechanicalSummary;
   appendLog(state, `DM TURN ${state.campaign.dm.turn}: ${action}`);
 
+  const nextOptions = [
+    "Press the advantage toward your mission objective.",
+    "Take a cautious approach to gather information first.",
+    "Withdraw, recover, and seek a safer path.",
+  ];
+
+  const playerPrompt = [
+    "What do you do next?",
+    `1) ${nextOptions[0]}`,
+    `2) ${nextOptions[1]}`,
+    `3) ${nextOptions[2]}`,
+    "You can also describe any other action in your own words.",
+  ].join("\n");
+
   return {
-    output: `${narration}\n\n${mechanicalSummary}`,
+    output: `${narration}\n\n${mechanicalSummary}\n\n${playerPrompt}`,
     roll,
     outcomes,
     revelation: revelation ? revelation.text : null,

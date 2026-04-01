@@ -69,7 +69,7 @@ async function fetchState() {
   if (!res.ok) throw new Error("Unable to load game state");
   const data = await res.json();
   renderStateCards(data);
-  appendEntry("system", "The DM is ready. Describe what you do in plain language. Use /help for command mode.");
+  appendEntry("system", "The DM describes the scene, then asks what you do next. Enter your action in plain language. Use /help for command mode.");
 }
 
 async function sendCommand(command) {
