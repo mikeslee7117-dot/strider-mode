@@ -1,0 +1,2001 @@
+
+
+===== PAGE 1 =====
+
+strider™  
+mode
+RULES FOR SOLO ROLEPLAYING
+Mike Lee (Order #51544154)
+
+===== PAGE 2 =====
+
+STRIDER MODE
+2
+FACE THE WILDS 
+ALONE
+“He is one of the wandering folk — Rangers we call them. 
+He seldom talks: not but what he can tell a rare tale when 
+he has the mind. He disappears for a month, or a year, 
+and then he pops up again. What his right name is, I’ve never 
+heard: but he’s known around here as Strider.”
+rom the moment we meet Aragorn in The Lord of the 
+Rings, we feel drawn to his hard- bitten stoicism and 
+uncanny survivability. Who is this dark, hooded fig -
+ure subsisting on the edges of civilization, living in 
+harmony with the shadowed wilds — and on what sorts of 
+adventures does he embark?
+With Strider Mode for The One Ring, players can set out on 
+solo journeys in the vein of Aragorn’s missions across Middle- 
+earth, facing danger and darkness with only steel, cunning, 
+and hope as companions.
+WHAT IS STRIDER MODE?
+Strider Mode presents additional and modified rules to facil-
+itate solo play in The One Ring, as well as guidelines and tips 
+for solo players and a selection of random tables to help 
+incite and inspire your lone wanderings across Middle- earth.
+As with standard play in The One Ring, you play the game 
+and interact with the world from the perspective of your char-
+acter. You don’t need to talk out loud (though you can!), nor 
+are you writing the equivalent of a novel (though the occa -
+sional written note can help keep you on track). 
+Instead, you envision the world, the figures and foes you 
+encounter, and your character’s actions. The rules of The One 
+Ring help resolve those actions. When you need additional 
+guidance or inspiration for how the world responds to you, 
+or what you encounter in your journeys across Middle- earth, 
+Strider Mode steps in to lend a hand.
+WHAT IS SOLO ROLEPLAYING?
+Strider Mode does not require a Lore master, allowing a sin-
+gle player to undertake journeys as a lone adventurer in the 
+perilous world of Middle- earth.
+The concept of solo pen- and- paper roleplaying originates 
+with the “choose your own adventure” novels of the ‘70s and 
+the random dungeon generation tables in early editions of 
+popular roleplaying games.
+Solo tools have since evolved beyond those experiences. 
+Contemporary solo systems are designed to offer the same 
+engaging narrative flexibility for a solo player as you experi-
+ence in a game led by a Lore master.
+Since pen- and- paper roleplaying is typically a collabora-
+tive group activity, you might wonder what makes solo role-
+playing worthwhile. While indeed a different experience, solo 
+play can be just as fun and rewarding.
+If you aren’t sold on the idea, here are some things to 
+consider.
+ ♦ Explore Tolkien’s world at your own pace, without 
+needing to coordinate schedules with others.
+ ♦ Enjoy sole control of the tone and focus of a campaign.
+ ♦ More deeply explore themes and subjects intriguing 
+to you.
+ ♦ Put the spotlight on a specific character and focus on 
+their goals, abilities, and challenges.
+ ♦ If you tend to play as the Lore master, this is your 
+opportunity to be a Player- hero in the world of 
+Middle- earth.
+If you are already participating in a game led by a Lore master, 
+you can use Strider Mode to explore other aspects of Tolk -
+ien’s world. Perhaps you undertake independent adventures 
+with your Player- hero while the members of the Company are 
+away from one another, much as Gandalf does in The Hobbit. 
+Or you can experience the stories of a side- character in your 
+main campaign.
+Introduction
+Mike Lee (Order #51544154)
+
+===== PAGE 3 =====
+
+IntroductIon
+3
+HOW IT WORKS
+Strider Mode is supplementary to The One Ring — the core 
+rules are required for solo play, and familiarity with those 
+rules is assumed.
+Though in practice Strider Mode differs little from the 
+core experience of The One Ring, there are some distinctions 
+that facilitate the solo experience and help drive the narra-
+tive without a Lore master at the helm. This supplement pro-
+vides options and tools to help guide your solo adventures 
+in the Third Age.
+BASIc PHILoSoPHY
+When you play The One Ring in Strider Mode, you guide 
+your Player- hero as they undertake a quest. Your story can 
+be focused on missions assigned by a Patron, or on personal 
+goals or problems which compel your character to abandon 
+the comfort of home and hearth.
+As a solo player, you imagine those adventures and take 
+action from the perspective of your Player- hero. But you 
+also interpret the consequences of those actions, introduce 
+encounters, and portray other aspects of the world. You essen-
+tially act as both the Player- hero and the Lore master, using 
+your intuition and the tools in this supplement to retain the 
+surprises, challenges, and opportunities that make roleplay-
+ing as a character so rewarding.
+corE StrIdEr ModE t ABLES
+Three new tables presented in this supplement are key to 
+playing The One Ring in Strider Mode. 
+ ♦ The Telling Table (page 10) helps answer simple ques-
+tions about locations, people, creatures, and events. 
+Use this table when you would normally ask the Lore-
+master a yes/no/maybe question like “Is there light 
+in this passage?” or “Is there an herb- master in this 
+village?”
+ ♦ The Lore Table (page 11) helps inspire answers to 
+more complex, open- ended questions or reveal new 
+events and situations. Use this table when you would 
+normally ask the Lore master for details about the 
+world around you, such as “Who do I see coming up 
+the road?” or “What do I find in the Troll’s lair?”
+ ♦ The Fortune and Ill- Fortune Tables (page 8) offer 
+prompts for narrative outcomes when a  rune or  
+icon is rolled on your Feat die. 
+This supplement also includes other tables to help resolve 
+more specific situations and questions. See page 21 for the 
+collected set of Strider Mode tables.
+AdVEnturInG PHASE
+Much like the core experience of The One Ring, the flow of 
+play is broken up into various phases, chief of which is the 
+Adventuring Phase. This experience differs slightly in Strider 
+Mode. You can find these expanded and modified rules on 
+page 15, but the main differences are as follows:
+ ♦ No roles are assigned during Journeys. Instead, the 
+sole Player- hero reacts to situations as they arise, test-
+ing their skills against hazards and obstacles.
+ ♦ An expanded Journey Events Table (page 17) provides 
+a deeper and more varied experience for the solo 
+player, offering just enough detail to help you envision 
+the people, places, and foes in your path.
+ ♦ A new combat stance — the Skirmish Stance (page 
+15) — provides the lone Player- hero an opportunity 
+to keep foes at a distance, staying one step ahead of 
+the Shadow.
+FELLoWSHIP PHASE
+Little differs from the core rules in Strider Mode’s Fellowship 
+Phase, during which your lone Player- hero rests, recuperates, 
+and undertakes downtime activities to heal, gather rumours, 
+or commune with their Patron. Guidelines for the solo player 
+are provided on page 20.
+COOPERATIVE PLAY  
+This supplement is geared for solo play, but can 
+also be used for play with two or more players in 
+a small Company, without the aid of a Lore master.
+When you are playing in a group without a 
+Lore master, the normal conversation you would 
+have with other players is expanded to include the 
+details of the world you inhabit. When a question 
+or situation arises which would normally be 
+resolved or depicted by the Lore master, the group 
+can collaborate to decide what happens, or use 
+tools such as the Telling Table (page 10) and Lore 
+Table (page 11) to help come up with an answer.
+With cooperative play, it’s imperative that 
+players share the narrative spotlight, allowing 
+each participant to “take the lead” at times in envi -
+sioning the world around the Player- heroes. Stray 
+from allowing one player to become the de facto 
+Lore master, and take turns if necessary to foster a 
+collaborative experience.
+Mike Lee (Order #51544154)
+
+===== PAGE 4 =====
+
+STRIDER MODE
+4
+YOUR ADVENTURER
+When you begin a Strider Mode campaign, create a single 
+Player- hero, much like you would in a traditional campaign 
+guided by a Lore master. All Player- hero cultures and callings 
+are available to you, and there are only slight considerations 
+for Virtues as noted below.
+When creating your solo character, consider the kinds of 
+stories you want to tell, and the themes you want to explore. 
+Messenger, Treasure Hunter, and Warden are callings well 
+suited to the Strider Mode experience, but any calling works.
+CRAFTING YOUR PLAYER- hERO
+PrEVIouS EXPErIEncE
+When allocating your previous experience (page 46 in The 
+One Ring core rules), you have 15 points to spend, instead 
+of 10. This represents your Player-  hero’s additional “grit” 
+and experience afforded by their lone wanderings across 
+Middle- earth.
+Your SAFE HAVEn
+Without a Company at your side, the safe haven is a particu-
+larly important aspect of your Player- hero’s story. It’s there you 
+find allies, friends, perhaps even family. Consider why your safe 
+haven represents not only sanctuary for your Player- hero, but 
+also home — a hearth always lit to guide you back from the wilds.
+FELLoWSHIP ScorE
+As a solo player, you have a Fellowship score equal to 3 plus 
+any additional bonuses from Virtues, Cultural Blessings, and 
+your Patron. Your Fellowship score, rather than representing 
+the bonds between you and your Company, instead signifies 
+your connection to the communities you serve and the wilds 
+you roam — a hope that cannot be diminished by the Shadow.
+Mike Lee (Order #51544154)
+
+===== PAGE 5 =====
+
+Your AdVEnturEr
+5
+FELLoWSHIP FocuS
+When playing as a solo Player-  hero, you are not a member 
+of a Company and do not have a Fellowship Focus. You can 
+ignore this aspect of character creation.
+VIrtuES
+When selecting Virtues, read the description and look for any 
+Company- specific benefits. Since you aren’t travelling as part 
+of a Fellowship, those abilities won’t factor into your story.
+Some Cultural Virtues provide benefits solely for a Com-
+pany. For example, the Hobbit Virtue Three is Company offers 
+an increased Fellowship score and additional Fellowship 
+Focus. A solo player benefits from extra Fellowship points, 
+but not necessarily an additional Fellowship Focus, so this 
+virtue is not recommended in Strider Mode.
+Other Virtues provide benefits for a Company, but are 
+also worthwhile for a lone character. For example, the Bard-
+ing Virtue Dwarf- friend provides a benefit for combat when 
+your Fellowship focus is a Dwarf, which would not be use -
+ful in a Strider Mode campaign. But it also improves your 
+interactions with Dwarves during a council. It’s up to you to 
+decide if the trade- off is worth it. Since you are a lone Player- 
+hero, you don’t need to worry about balancing your abilities 
+against others in a Company. Choose what best fits the nature 
+of your character.
+nEW dIStInctIVE FEA turE: StrIdEr
+Wandering the wilds of Middle- earth alone hardens the spirit 
+and sharpens the senses as you are forced to remain ever-  
+watchful for perils in the periphery. Solo Player- heroes receive 
+an extra Distinctive Feature: Strider. While journeying, the 
+Player- hero is considered Inspired on skill rolls.
+YOUR PATRON
+Perhaps the most important choice for a lone Player- hero is 
+their Patron. A Patron can provide the motive for an errand 
+or quest, and help tether your Player- hero to the larger world. 
+Introducing a Patron can serve as a great way to kick off a 
+campaign for a new character, and meeting with them during 
+the Fellowship Phase offers an opportunity to report on your 
+progress or accept a new task.
+In choosing your Patron, pay close attention to their 
+Favoured Callings, as well as their Agenda — ensure both 
+support your intended goals with solo games. For Player-  
+heroes interested in undertaking missions against the Shadow, 
+Gandalf and Gilraen present enticing options. A Player- hero 
+seeking fame and lost relics might find Bilbo or Balin more 
+suitable.
+PAtron QuEStS
+In the following tables, each starting Patron is given a set of 
+quests fitting their agendas. Use these to help inspire the 
+nature of a Patron- given quest as a starting adventure for your 
+character, or the next goal within a continuing campaign.
+To select a quest from a Patron, pick one that interests you, 
+roll one 6-sided Success die for a random result, or accept 
+the missions in sequence starting with the first. Envision the 
+details of the task as revealed by the Patron, and consider the 
+open questions posed by each. If the quest involves travel, 
+identify the destination. If the destination is unknown to you 
+and the patron, consider what you must do to locate your 
+objective.
+If you ask the Patron questions about the mission, you 
+can simply imagine their answer as appropriate to the nature 
+of the task, or use the Telling Table and Lore Table to help 
+inspire their response. Leave room for aspects of the quest 
+which are unknown to both you and your Patron.
+PATRON QUESTS: BALIN, SON OF FUNDIN
+SUCCESS 
+DIE QUEST
+1 Dark whispers plague a Dwarven territory. 
+What nameless Shadow lurks in the wilds?
+2 This broken artifact could be a potent weapon 
+against the enemy. What is this item, and who 
+wields the skill to reforge it?
+3 The Dwarven ruins hold great secrets — and 
+weapons against the Enemy. What is the nature 
+of these ruins, and what treasures do they hold?
+4 A powerful comrade has fallen in battle against 
+the Enemy. Who are they, and what did they 
+carry vital to our survival?
+5 A Dwarven stronghold now lies with the Enemy. 
+Who leads these foul creatures, and how have 
+they defiled our sacred site?
+6 A powerful lieutenant of the Enemy grows in 
+power. Who is this shadowy figure, and how 
+have they amassed followers?
+Mike Lee (Order #51544154)
+
+===== PAGE 6 =====
+
+STRIDER MODE
+6
+PATRON QUESTS: BILBO BAGGINS
+SUCCESS 
+DIE QUEST
+1 This particular delicacy is a rare treat. What is 
+this precious item, and where can it be found?
+2 Scout the area and make a note of significant 
+landmarks to aid cartography. How has the land 
+changed?
+3 The roads grow dark and perilous. What vital 
+missive do you carry, and to whom must it be 
+delivered?
+4 An ancient text confounds attempts to decipher 
+it. What is the nature of this text, and who pos -
+sesses the knowledge to translate it?
+5 The Enemy holds a map of special significance. 
+What secrets does this map hold, and why is it 
+vital?
+6 An artifact of great importance has resurfaced. 
+What is this item, and why must we find it 
+before the enemy does?
+PATRON QUESTS: CIRDAN THE SHIPWRIGHT
+SUCCESS 
+DIE QUEST
+1 Supplies wane as the Enemy draws near. What 
+vital resource for the building of ships must you 
+deliver?
+2 An ancient enemy of the Elves has resurfaced 
+and made themselves known. Who are they, 
+and what grudge do they bear?
+3 Hope falters in these dark days, so travel to a 
+remote beacon and rekindle its flame. What 
+shadowy presence seeks to prevent this?
+4 Our missives fall into the hands of the Enemy. 
+What fate befalls our messengers?
+5 An artifact of great importance to the Elves is 
+carried by a servant of the Enemy. Who is this 
+creature, and why do they covet the artifact?
+6 The ships of the Grey Havens are fashioned 
+from sacred wood. What malady taints these 
+trees?
+PATRON QUESTS: GANDALF THE GREY
+SUCCESS 
+DIE QUEST
+1 The people need hope in these dark times. 
+Where is this remote settlement, and what 
+good news do you bring?
+2 Carry word of the Enemy’s movements to our 
+trusted ally. Who is this ally, and how can they 
+aid us?
+3 A possible ally has made themselves known 
+to us. Who is this ally, and what must we do to 
+earn their trust?
+4 Our vision is clouded, our path uncertain. We 
+must capture a servant of the Enemy. Who are 
+they, and what do they know?
+5 News has reached us of a terrible weapon the 
+Enemy means to bear. What is this weapon, and 
+who wields it?
+6 The Shadow has captured an ally. Who is this 
+ally, and where are they imprisoned?
+Mike Lee (Order #51544154)
+
+===== PAGE 7 =====
+
+Your AdVEnturEr
+7
+PATRON QUESTS: GILRAEN, 
+DAUGHTER OF DIRHAEL
+SUCCESS 
+DIE QUEST
+1 A Ranger has gone missing. What has become 
+of them?
+2 A powerful servant of the Enemy lurks nearby. 
+Who are they, and why do they target our 
+Rangers?
+3 Enemy patrols prowl along the road, targeting 
+merchants and supply wagons. Who leads these 
+deadly patrols?
+4 A settlement has come under the eye of the 
+Shadow. Why is this place significant?
+5 Monstrous servants of the Enemy encroach. 
+What manner of weapon do they carry?
+6 We’ve received no word from a remote Ranger 
+refuge. What fate has befallen our allies?
+PATRON QUESTS: TOM BOMBADIL 
+AND LADY GOLDBERRY
+SUCCESS 
+DIE QUEST
+1 Creatures of the wilds have come under a dark 
+affliction. What is this sickness, and what rare 
+ingredient holds the key to a cure?
+2 A sacred spring runs black with some malady of 
+the Shadow. What taints this source, and what 
+manner of foul creature guards it?
+3 A group of travellers seeks escort through the 
+wilds. Who are they, and what is their vital 
+mission?
+4 The Shadow corrupts a sacred site. What is this 
+place, and what foul presence now taints it?
+5 A precious flower blooms for the first time in 
+many years. What is this plant, and why is it so 
+vital?
+6 An ancient, sacred tree hosts a foul presence. 
+What is this shadow, and can it be purged?
+EXPERIENCE MILESTONES
+In The One Ring, Experience Points are earned according to the 
+passage of your gameplay sessions. By default, each player earns 
+3 Skill points and 3 Adventure points at the end of every gaming 
+session (see page 56 of The One Ring core rules). If this works 
+for the format of your Strider Mode sessions, there’s no need to 
+adjust these rewards. But one advantage of solo pen- and- paper 
+roleplaying is flexibility — your sessions might last for a few 
+minutes or a few hours, which can make session- based rewards 
+disconnected from events and achievements in your story.
+If you prefer to earn Skill points untethered from the 
+structure of specific sessions, you can instead mark the growth 
+of your character through Milestones.
+Milestones are key events, experiences, and accomplish-
+ments for your hero. When you achieve a milestone shown 
+in the table below, gain the listed amount of Skill points or 
+Adventure points.
+If more than one milestone applies to a scene or chal -
+lenge, select only one. For example, if you defeat a band of 
+Orcs as part of a Noteworthy Encounter, you could take the 
+milestone as either a Noteworthy Encounter or a dangerous 
+combat, but not both. 
+Experience Points are otherwise managed as per the stan-
+dard The One Ring rules. Your Player- hero earns a number of 
+additional Skill points equal to their WItS  rating during each 
+Yule Fellowship Phase (see page 120 of The One Ring core rules). 
+Experience points are spent on training and growth during the 
+Fellowship Phase (see page 119 of The One Ring core rules).
+EXPERIENCE MILESTONES
+MILESTONE REWARD
+Accept a mission from a patron 1 Adventure Point
+Achieve a notable personal goal 1 Adventure Point 
+and 1 Skill Point
+Complete a patron’s mission 1 Adventure Point 
+and 1 Skill Point
+Complete a meaningful journey 2 Skill Points
+Face a Noteworthy Encounter during 
+a journey
+1 Skill Point
+Reveal a significant location or 
+discovery
+1 Adventure Point
+Overcome a tricky obstacle 1 Skill point
+Participate in a Council 1 Skill Point
+Survive a dangerous combat 1 Adventure Point
+Face a Revelation Episode 1 Adventure Point
+Mike Lee (Order #51544154)
+
+===== PAGE 8 =====
+
+STRIDER MODE
+8
+THE SYSTEM
+ACTION RESOLUTION
+As a solo player, you must decide when rolls are necessary, 
+a task that usually falls to the Lore master. It might seem 
+counter intuitive to challenge your own Player- hero’s success, 
+but consider that each roll of the dice in The One Ring pres-
+ents equal opportunity for triumph and despair. 
+Roll when risk is involved — when the possibility of fail-
+ure affects the narrative. For further guidance, see “When to 
+Roll” on page 16 of The One Ring core rules.
+SEttInG tHE t ArGEt nuMBEr
+Using the alternative presented in The One Ring core rules 
+(page 18), solo players should set the Target Number (TN) 
+by subtracting their Attributes from 18 instead of 20. This will 
+make your Player- hero more capable and self-  reliant when 
+they must face the challenges of Middle- earth alone.
+rEAdInG tHE FEA t dIE
+When you are taking action, and want to give the challenge 
+additional focus in a dramatic moment, use a result that 
+includes the Gandalf Rune  or Eye of Sauron icon  to 
+represent circumstances and events beyond the control of 
+your Player- hero.
+ ♦ Rolling the  rune means a successful action was 
+bolstered by fortune, such as unexpected aid, advan-
+tageous terrain, or a foe’s folly. To help inspire a ran-
+dom result, roll on the Fortune Table.
+ ♦ Rolling a failure with the  icon means a failure was 
+complicated by ill- fortune, such as a broken weapon, 
+difficult terrain, or enemy reinforcements. To help 
+inspire a random result, roll on the Ill- Fortune Table.
+Keep in mind that you’re free to gloss over a  or  result. 
+Just consider the nature of the success or failure in the con-
+text of the situation, and move on. For worthy challenges and 
+key actions, the Fortune and Ill- Fortune tables can help reveal 
+new complications, twists, and unexpected boons.
+FORTUNE TABLE 
+FEAT DIE RESULT
+The Eye of the Enemy focuses elsewhere. 
+Decrease Eye Awareness by 1.
+1 You may bypass a threat without attracting 
+notice
+2 You gain the attention of a potential ally
+3 An enemy inadvertently reveals their position
+4 You gain favoured ground
+5 Enemies run afoul of danger
+6 You locate or learn of a useful item
+7 Your success instils new hope or renewed 
+resolve
+8 You find a moment of comfort or safety
+9 You learn or realize something which gives 
+helpful insight into your mission
+10 You encounter an opportunity suited to your 
+nature or abilities
+An unexpected ally appears or sends aid
+ILL-  FORTUNE TABLE
+FEAT DIE RESULT
+Your actions catch the Eye of the Enemy. 
+Increase Eye Awareness by 2.
+1 You draw unwanted attention
+2 Your actions are observed by someone of 
+ill- intent
+3 Unexpected enemies emerge or are sighted
+4 You are hindered by difficult terrain or an unfa-
+vourable environment
+5 You find yourself ill- equipped for the 
+circumstances
+6 A favoured weapon or item is lost, broken, or 
+sacrificed
+7 You are plagued by troubling visions or 
+thoughts
+8 An old injury or stress resurfaces
+9 You learn or realize something which adds a 
+new complication to your mission
+10 You face a test which is contrary to your nature 
+or abilities
+An ally becomes a hindrance or liability
+Mike Lee (Order #51544154)
+
+===== PAGE 9 =====
+
+tHE SYStEM
+9
+SPEcIAL SuccESS In StrIdEr ModE
+When a successful action also produces one or more Elvish 
+symbols  on your Success Dice, this is a superior result (see 
+page 18 of The One Ring core rules). Unlike the whims of for-
+tune and ill- fortune indicated by a  rune or  icon on the 
+Feat Dice, this outcome can be interpreted as a direct result 
+of your character’s preparedness and skills.
+If you want to detail the nature and benefits of a superior 
+result for solo play, you can use the table above, which is an 
+alternative to the Special Success table on page 19 of The 
+One Ring core rules. As with that version of the table, you can 
+specify what your superior result means by ‘spending’ your 
+rolled icons to trigger a number of special results. Choose 
+one of the options listed for each  rolled.
+In combat,  icons are instead used to trigger special 
+results based on the war gear of the attacker (see page 99 of 
+The One Ring core rulebook). Also, some Cultural Virtues pro-
+vide specific benefits for  icons. If a result for a  is already 
+detailed by other rules or a character ability, use that instead 
+of the Special Success table.
+uSInG rISK LEVELS
+For Strider Mode, it is recommended to use Risk Levels (page 
+131 of The One Ring core rulebook) when visualizing and resolv-
+ing a risky action. This will add more variety to the outcome 
+of a failed action and aid you in resolving the consequences.
+Most actions you take should be at a Standard Risk Level. 
+This is the default unless you decide the situation warrants 
+otherwise before making a roll. If appropriate to the cir -
+cumstances, and if it aids in moving your story forward, you 
+can choose to trade failure on a Standard action for success 
+marred by a negative occurrence.
+Risk Levels can help manage the intensity of your adven-
+tures. As dangers and failures mount up, increase the Risk 
+Level to make the situation more perilous. 
+The three Risk Levels and the consequences of a failed 
+outcome for each are summarized in the table below.
+If you are ever unsure about the Risk Level of a challenge, 
+use the Telling Table (see next page). Ask the Telling Table 
+“is this a Standard Risk Level?”, making the result “likely”. If 
+the answer is “no”, make it Hazardous. If the answer is “no” 
+with an  icon, make it Foolish.
+SKILL SPECIAL SUCCESS TABLE
+SPEND 1 SUCCESS 
+ICON TO… DESCRIPTION
+Gain Insight You gain additional information, not necessarily related to the task at hand. For example, while helping a 
+sick individual with a HEALING  roll you discover the trace of poison. Or you spot a sentry while sneaking 
+into a ruin with a roll of STEALTH .
+Go quietly You achieve your goal noiselessly or without otherwise attracting attention.
+Make haste You complete the attempted task in a shorter time (about half the expected time).
+Widen Influence You can influence more than the specific number of subjects originally targeted by the action. As a 
+general rule, each Success icon spent corresponds to one additional subject or group of subjects. For 
+example, following a roll of INSIGHT , you spot a second person acting suspiciously at an inn; a roll of 
+ENHEARTEN  aimed to affect half a dozen individuals allows you to influence a full dozen.
+Build advantage You carry forward your success to improve your position or confidence for a related task; gain (1d) on your 
+next skill roll.
+Cancel a Failure If playing co- op with other players, you help another Player- hero who failed within the scope of the same 
+skill roll; the failed roll is considered a success.
+RISK LEVELS
+RISK LEVEL THE FAILED ROLL RESULTS IN… EXAMPLES
+Standard Simple Failure,  
+OR Success with Woe
+Eluding the watch of a Bounder in the Shire, entertaining a crowd of inebriated 
+patrons at an inn, climbing a tall tree.
+Hazardous Failure with Woe Stealing mushrooms from a farm guarded by ferocious dogs, climbing atop a 
+crumbling tower, or trying to swim the waters of a swift- running river.
+Foolish Disaster! Picking the pockets of a hungry Troll, playing a riddle game with a Dragon, or 
+bandying words with an angry Wizard.
+Mike Lee (Order #51544154)
+
+===== PAGE 10 =====
+
+STRIDER MODE
+10
+THE TELLING TABLE
+One of the most useful and versatile tools at a solo player’s 
+disposal is the Telling Table. Use the Telling Table when pos-
+ing questions answerable by “yes” or “no.” This table helps 
+resolve questions normally answered by a Lore master, reveal-
+ing details of the world and the intent or actions of other char-
+acters. If you are asking a question with results favourable and 
+unfavourable (from the perspective of your character), ask it 
+in such a way that “yes” is the positive outcome.
+After posing your question, set the chance of a “yes” using 
+the range shown in the Telling Table: certain, likely, middling, 
+doubtful, or unthinkable. If unsure, make it middling. Then, 
+roll one 12-sided Feat die to learn the answer.
+ ♦ Ask your question, with “yes” being the positive 
+outcome.
+ ♦ Set the chance (with “middling” as the default).
+ ♦ Roll one Feat die and consult the Telling Table for 
+your answer.
+Note also that rolling either the  rune or  icon results in 
+an automatic yes or no, respectively, with an extreme result 
+or twist.
+TELLING TABLE
+CHANCE
+ROLL A FEAT DIE.  
+THE ANSWER IS YES  IF YOU ROLL...
+Certain 1 or greater
+Likely 4 or greater
+Middling 6 or greater
+Doubtful 8 or greater
+Unthinkable 10
+ : Always yes, with an extreme result or twist
+  : Always no, with an extreme result or twist
+For example, your Player- hero wanders into a roadside inn 
+and you wonder if they recognize anyone from previous vis-
+its — a friendly face would be a welcome sight after these 
+long days in the wilds. You ask, “Do I see anyone I know?” 
+You set the chance to doubtful and roll.
+You roll a , which according to the Telling Table is 
+“always yes, with an extreme result or twist.” You determine, 
+perhaps with help from the Lore Table (page 11), that your 
+Player- hero does see a friendly face: a friend they thought lost 
+to the Shadow, who yet now sits alive and well in this inn.
+TRUST YOUR GUT 
+You needn’t roll on the Telling Table and/or Lore 
+Table each time you ask a question during your 
+solo play. Oftentimes, the answer will be obvious 
+to you, based on the narrative thus far, the context 
+of the question, the nature of your Player- hero and 
+the Middle- earth they inhabit. The Telling Table is 
+a tool for when you earnestly don’t know, when 
+you can’t decide, or when the possibilities of yes, 
+no, or something in between each present equal 
+opportunities for fun.
+When in doubt, even with tools like the Telling 
+Table and Lore Table at your disposal, trust your 
+gut — oftentimes your first instinct is the right one.
+Mike Lee (Order #51544154)
+
+===== PAGE 11 =====
+
+tHE SYStEM
+11
+FEAT DIE: 
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Abandon Corrupted Curse
+2 Attack Cruel Despair
+3 Betray Deceptive Enemy
+4 Corrupt Fell Fear
+5 Defeat Ruined Shadow
+6 Weaken Treacherous War
+FEAT DIE: 
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Believe Flourishing Courage
+2 Bolster Beautiful Duty
+3 Defend Good Fellowship
+4 Forgive Kind Hope
+5 Resist Gentle Love
+6 Strengthen Wondrous Peace
+FEAT DIE: 1
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Aid Active Battle
+2 Arrive Ancient Border
+3 Await Bold Burden
+4 Breach Bright Council
+5 Break Broken Court
+6 Capture Cheerless Creature
+FEAT DIE: 2
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Change Cold Darkness
+2 Chase Concealed Death
+3 Command Dangerous Defence
+4 Control Dark Depths
+5 Create Dead Doubt
+6 Defy Defended Dreams
+THE LORE TABLE
+Use the Lore Table to help reveal details when asking an 
+open- ended question about a situation or event. The table 
+includes three columns: Action, Aspect, and Focus. You can 
+roll on one column for a single word prompt, or two or 
+more to construct a prompt phrase. The Lore Table is par -
+ticularly useful for generating patron quests, or determin-
+ing Distinctive Features for characters encountered on your 
+journeys.
+To roll on the table, use one 12-sided Feat die to deter -
+mine the section, and one six- sided Success die for the row.
+The Lore Table can answer questions such as:
+ ♦ “What is the nature of these woods?” (Aspect)
+ ♦ “What mission does my patron have for me?” (Action, 
+Aspect, Focus)
+ ♦ “What do I find within the ruins?” (Aspect, Focus)
+Depending on the situation, the result might be taken liter -
+ally, or interpreted as an abstraction. Part of the fun of solo 
+roleplaying is deciding how these enigmatic riddles relate to 
+your current situation. If a result doesn’t fit or is hard to inter-
+pret within the context of the current situation, roll again or 
+check adjacent rows for your answer.
+For example, your Player- hero enters a roadside inn and recog-
+nizes among the patronage a friend they thought dead. Roll-
+ing on the Lore Table to determine the Player- hero’s connection 
+to the person, you roll an Action of “Break” and a Focus of 
+“Fellowship.” You decide that the Player- hero once travelled 
+with this person in a Company, and together fought many 
+battles and journeyed many leagues — but also that this per-
+son’s disappearance led to the fracturing of your Fellowship.
+Mike Lee (Order #51544154)
+
+===== PAGE 12 =====
+
+STRIDER MODE
+12
+FEAT DIE: 3
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Demand Desolate Fate
+2 Discover Destroyed Fire
+3 Disguise Dreadful Folk
+4 Endure Empty Followers
+5 Escape Evil Greed
+6 Evade Faded Haven
+FEAT DIE: 4
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Explore Far- reaching History
+2 Find Fierce Honour
+3 Focus Foreboding Journey
+4 Gather Forgotten Kindred
+5 Guard Fragile Knowledge
+6 Guide Ghastly Land
+FEAT DIE: 5
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Hide Gloomy Leader
+2 Hinder Growing Legend
+3 Hoard Hidden Life
+4 Hold Ill- fated Light
+5 Hunt Impenetrable Luck
+6 Journey inspiring Memory
+FEAT DIE: 6
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Lead Isolated Message
+2 Learn Lofty Might
+3 Leave Lost Nature
+4 Lose Menacing Pain
+5 Mourn Mighty Path
+6 Move Mysterious Patron
+FEAT DIE: 7
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Persist Noble Peril
+2 Preserve Obstructed Plan
+3 Prevent Old Power
+4 Refuse Ominous Prophecy
+5 Reject Open Quest
+6 Remove Peaceful Refuge
+FEAT DIE: 8
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Replenish Restored Riddle
+2 Restore Sheltered Ruins
+3 Scheme Silent Rumour
+4 Search Simple Secret
+5 Seize Small Skill
+6 Share Sombre Song
+FEAT DIE: 9
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Slay Stony Story
+2 Steal Stout Strength
+3 Summon Stricken Time
+4 Surrender Stubborn Tool
+5 Surround Twisted Treasure
+6 Threaten Unnatural Trust
+FEAT DIE: 10
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Transform Veiled Truth
+2 Trap Vigorous Vengeance
+3 Trick Weary Wealth
+4 Uncover Wild Weapon
+5 Uphold Wretched Wilds
+6 Withstand Young Wish
+Mike Lee (Order #51544154)
+
+===== PAGE 13 =====
+
+tHE SYStEM
+13
+THE EYE OF MORDOR
+A lone Player- hero draws less attention than a full Company, 
+but may still catch the Eye of the Enemy. Use the optional 
+Eye Awareness score as described on pages 169–171 of The 
+One Ring rulebook to track your visibility to the Enemy and 
+the actions of dark forces in Middle- earth. 
+Although these rules are optional, they are recommended 
+for use with Strider Mode as a means of making the campaign 
+more dynamic and reinforcing the Enemy and the minions 
+of Shadow as ever- present and cunning threats.
+St ArtInG EYE AWArEnESS
+Calculate your starting Eye Awareness score as described on 
+page 170 of The One Ring  core rulebook. Start with an Eye 
+Awareness of 0, and adjust as follows.
+ ♦ Add 1 if you have a VALour  rating of 4 or more
+ ♦ Add 1 if you are a Dwarf
+ ♦ Add 2 if you are an Elf or Dúnedain
+ ♦ Add 3 if you are a High Elf 
+ ♦ Add 1 for each Famous Weapon and Armour you carry
+IncrEASInG EYE AWArEnESS
+Use the guidelines detailed on pages 170–171 of The One Ring 
+core rulebook, as described below.
+ ♦ Whenever a die roll made outside of combat produces 
+an  icon, regardless of whether the roll resulted in 
+success or failure, raise Eye Awareness by 1 point 
+ ♦ Whenever the Player- hero gains 1 more shadow points 
+outside of combat, increase the Eye Awareness level by 
+that amount
+ ♦ Magical successes using a marvellous artefact or won-
+drous item might increase Eye Awareness, as per the 
+guidelines on page 171 of The One Ring core rulebook.
+Also, an  result on the Ill-  Fortune Table (page 8) will 
+raise the Eye Awareness Score by 2. This is in addition to the 
+increase from the initial  result which triggered a roll on 
+that table. The Eye is fixed upon you!
+rESEttInG EYE AWArEnESS
+The Eye Awareness score does not increase during a Fellow-
+ship phase. At the beginning of the following Adventure 
+phase, reset the score to its starting value.
+Hunt tHrESHoLd
+The Hunt threshold for a lone Player- hero is the same as that 
+for a Company, as described on page 172 of The One Ring core 
+rulebook. Use the Region Table and Hunt Modifiers Table 
+to set the threshold. 
+HUNT THRESHOLD REGION TABLE
+THE REGION TRAVERSED IS A… HUNT THRESHOLD
+Border Land 18
+Wild Land 16
+Dark Land 14
+HUNT MODIFIERS TABLE
+HUNT 
+MODIFIER DESCRIPTION
++4 The Player- hero is protected by the blessing 
+of a Wizard, or another powerful character
++2 The Player- hero is travelling under a false 
+name, treading paths that are seldom trod-
+den, or otherwise taking actions to be discreet 
+and unobtrusive
+−2 The Player- hero has gained great renown in 
+the area thanks to some exceptional deed
+−4 The Enemy is actively looking for the Player-  
+hero, or their mission or goal is known to 
+them
+Mike Lee (Order #51544154)
+
+===== PAGE 14 =====
+
+STRIDER MODE
+14
+rEVELA tIon EPISodES
+When your Eye Awareness matches or exceeds the current 
+Hunt threshold, you must face a Revelation Episode.
+In Strider Mode, a Revelation Episode represents the 
+influence and actions of the Enemy or other sinister or hate-
+ful powers. 
+To determine the nature of the episode, roll on the Reve-
+lation Episode Table, choose a result from the table, or imag-
+ine a threat which best represents the current situation. Some 
+episodes might create an immediate danger or complication 
+for your Player- hero. Others trigger dire events in the world 
+which the Player- hero is (for now) unaware of, but which will 
+cause future complications. If you set a Revelation Episode 
+in motion outside the perception of your Player- hero, make 
+note of it and consider how it may later reveal itself.
+Once you have triggered a Revelation Episode, reset your 
+Eye Awareness to its starting value.
+REVELATION EPISODE TABLE
+FEAT DIE EPISODE
+Internal strife or an external threat puts your 
+Safe Haven in peril
+1 Unexpected danger arises on the path ahead, 
+forcing you to seek a new route
+2 Nature is corrupted and turns against you
+3 Spies of the Enemy carry word of your mission
+4 Enemy minions launch an ambush or lay a trap
+5 Enemy minions pick up your trail
+6 An important location is overtaken by an enemy
+7 An item you carry holds a curse, or is hunted by 
+an enemy
+8 You are tempted by something greatly desired, 
+to the detriment of your mission
+9 Malicious lies cause others to mistrust or 
+fear you
+10 Conflict brews between allies
+An important ally is put in danger
+Mike Lee (Order #51544154)
+
+===== PAGE 15 =====
+
+AdVEnturInG PHASE
+15
+ADVENTURING PHASE
+COMBAT
+In Strider Mode, rather than facing foes shoulder- to- shoulder 
+with your Company, you must stand alone against the enemy. 
+Strider Mode offers some tools for the solo Player- hero, 
+including a new stance to give lone, bow- wielding Player-  
+heroes a fighting chance.
+SKIrMISH St AncE
+Combat in Strider Mode operates much the same as in 
+The One Ring core rules, with a number of opening volleys 
+(depending on the distance between combatants) preced -
+ing close combat.
+But for Player- heroes who prefer bows and thrown weap-
+ons, the Skirmish stance allows a solo Player- hero to fight “on 
+the move,” exchanging ranged attacks while seeking advan-
+tageous positions from which to strike.
+SKIrMISH St AncE (rAnGEd coMBA t)
+You fight on the move, navigating the terrain and exchanging 
+volleys with pursuing or fleeing foes.
+ ♦ You can only attack your adversaries using ranged 
+weapons. Adversaries that attack you with melee weap-
+ons lose (1d), while those who attack you with ranged 
+weapons suffer no penalty.
+ ♦ For ranged attack rolls, you lose (1d).
+ ♦ To escape from combat, roll for your ranged attack 
+(without losing (1d) on the roll). If you succeed, you 
+do not inflict any damage but instead leave the battle-
+field — otherwise you remain engaged.
+ ♦ Combat Task: Gain Ground
+GAIn Ground —  SKIrMISH St AncE
+Combatants on the move can attempt to gain an advantageous 
+position against their foes, ambushing enemies or firing from 
+an overlook. To do so, the acting player makes an AtHLEtIcS  
+or ScAn  roll as the main action for the round.
+On a successful roll, the attacker gains (1d) on their next 
+ranged attack, plus another (1d) for each Success icon  
+rolled. These bonus dice can be used on a ranged attack 
+roll to escape from combat (see Skirmish Stance).
+coMPLIcA tIonS And AdVAnt AGES
+Without a Lore master, the solo player must decide whether 
+their Player- hero and any adversaries fight with complica -
+tions or advantages.
+Sometimes it’s clear based on the environment and the 
+circumstances of the battle — the Player- hero fights in knee- 
+deep water or unleashes arrows over a great distance. Roll -
+ing a  rune or  icon can also serve as a trigger for a 
+complication or advantage to make a fight more complex 
+and interesting.
+AdVErSAr Y ActIonS
+In Strider Mode, the solo player finds themselves in the 
+unique position of controlling both their Player- hero and 
+the adversaries in their path.
+In combat, an adversary uses the weapon best suited to 
+the situation, depending on the stance of the Player- hero. If 
+multiple weapons apply, the adversary uses the one which 
+gives them the biggest advantage or greatest chance of deal-
+ing damage.
+SPEcIAL dAMAGE
+When spending  icons to trigger special damage from an 
+adversary, use the Heavy Blow special damage result unless 
+the adversary lists a special damage option in its stat block.
+FELL ABILItIES
+If using an adversary’s Fell Ability would give them a clear 
+advantage in combat, they use it, spending any Resolve/Hate 
+required. If the ability would come at a cost or pose a risk 
+to the adversary or their allies, you can ask the Telling Table 
+(page 10) to determine the enemy’s behaviour.
+OUTNUMBERED, OUTMATCHED
+The solo experience in The One Ring is often 
+fraught with peril, and never is this more apparent 
+than during combat. Alone, an adventurer can eas -
+ily become overwhelmed by foes. Utilize tools like 
+the Skirmish stance, and its associated task, Gain 
+Ground, to stay on the move. And when things 
+look dire, don’t hesitate to flee combat to live to 
+fight another day. 
+Mike Lee (Order #51544154)
+
+===== PAGE 16 =====
+
+STRIDER MODE
+16
+COUNCILS
+Councils involve your Player- hero standing before important 
+figures in a formal setting. They represent social events of 
+considerable import, often involving discussion of vital events 
+or tense negotiations.
+Councils for a lone Player- hero are resolved as described 
+in The One Ring core rulebook (page 104), with some further 
+guidelines detailed below.
+SEttInG rESISt AncE
+As with The One Ring core rules, you begin a council by setting 
+the resistance, based on your Player- hero’s intended goal in 
+the interaction — 3 for a reasonable request, 6 for a bold 
+request, or 9 for an outrageous request.
+If you’re not sure what resistance your goal entails, choose 
+two of the options, make one of them likely, and roll on the 
+Telling Table (page 10) to see if the answer is “yes” for the 
+likely option. If not, it is the other.
+roLEPLAYInG IntErActIonS
+As a solo player, it might feel strange or unintuitive to role -
+play with yourself. But it’s important that your councils do 
+not devolve into a series of dice rolls. Think through the dis-
+cussions happening — the different motivations at play, and 
+the disagreements that might arise.
+When you have a specific question about a character’s 
+response during a Council, you can ask the Telling Table 
+(page 10) for a “yes” or “no” response. If you have a more 
+general question about the nature of a topic or response, use 
+the Lore Table (page 11) and envision what the answer 
+means in the context of the characters and conversation. 
+JOURNEYS
+In The One Ring, journeys are a key aspect of undertaking 
+quests and errands. For a solo Player- hero, these journeys 
+offer an opportunity to explore Tolkien’s richly imagined 
+world, face uncertainties and danger, and put your abilities 
+to the test. The structure of journeys in The One Ring are 
+perfect for Strider Mode adventures, because they tend to 
+introduce encounters and obstacles organically, and offer a 
+clear objective for your character.
+Journeys for a lone Player- hero are resolved mostly as 
+described in The One Ring core rulebook (page 108), with a 
+few changes as detailed below. Player- heroes also have access 
+to the Strider Distinctive Feature (page 5).
+WHEn to uSE tHE JournEY ruLES
+As described in The One Ring core rulebook (page 109), the 
+rules for journey resolution should be used when travelling 
+to a specific destination across dangerous lands. If there is 
+enough uncertainty or danger to warrant a skill test, but the 
+journey is not worthy of the full journey rules, you can see 
+how you fare with a trAVEL  roll. For mundane travel within 
+safe territory, or when returning home along the same path, 
+the fate of your journey can be resolved without any rolls.
+SEttInG oFF Into tHE unKnoWn
+When playing The One Ring as part of a Company with a Lore-
+master, you would normally have limited knowledge of your 
+destination and what lies along your path. As a solo player, 
+you must balance the information needed to manage the 
+journey with the viewpoint of your character.
+To resolve a journey and imagine the places and people 
+you encounter, use the tools The One Ring provides for Lore-
+masters, including maps, random tables, and region informa-
+tion. In addition, you can rely on the Telling Table (page 10), 
+Lore Table (page 11), and other tables provided in this sup-
+plement to help bridge the gap between your knowledge as a 
+character and that which a Lore master would normally provide.
+If your Player- hero is particularly well travelled and experi-
+enced, there will be more overlap of the information needed 
+to manage the journey with your character’s knowledge. If 
+your Player- hero is new to adventuring and unfamiliar with 
+the world beyond their home, you will rely on Lore master 
+tools without letting that information impact decisions from 
+the perspective of your character.
+JournEY roLES
+Journey roles are not used in Strider Mode. Instead, your 
+Player- hero must tend to all aspects of travel; you will still roll 
+for journey events (see below), but those events are keyed 
+directly to skills instead of roles.
+BATTLING YOURSELF 
+Running enemies as a Lore master against your own 
+Player- hero can sometimes feel forced, but consider 
+that the point of a combat is not to “win,” but rather 
+to present an exciting, interesting, or important bat-
+tle — something that adds to the narrative and chal-
+lenges your Player- hero, regardless of the outcome.
+When in doubt, follow the “rule of cool.” Make 
+interesting, dynamic things happen. Stage a battle 
+that would be exciting to witness. Lean on your 
+favourite epic battles and action set- pieces from 
+film and literature. And the Telling Table and Lore 
+Table are always tools at your disposal.
+Mike Lee (Order #51544154)
+
+===== PAGE 17 =====
+
+AdVEnturInG PHASE
+17
+SoLo JournEY EVEntS
+To resolve journey events for a lone Player- hero, skip the 
+event’s target step (page 112 of The One Ring core rulebook). 
+Instead, you are always the target of the event, and the chal-
+lenged ability is determined by the event’s nature.
+As described on page 113 of The One Ring core rulebook, 
+roll on the Journey Events Table to determine the event type.
+Your current location affects this roll as follows: 
+ ♦ If it is within a Border Land, make a Favoured Feat die roll.
+ ♦ If it is within a Wild Land, roll one Feat die.
+ ♦ If it is within a Dark Land, make an Ill- favoured Feat die roll.
+The Journey Events table above is slightly modified from the 
+version in the core rules to put the focus on a lone Player- hero.
+Once the event type is determined, choose one of the fol-
+lowing options to help envision the nature of the event and 
+the challenge or opportunity your character faces. 
+ ♦ Based on the result from the Solo Journey Events 
+Table, imagine an incident or opportunity in a way 
+that fits the current situation and surroundings. Then, 
+make a test using an appropriate skill: EXPLorE , 
+AWArEnESS , or HuntInG . Check the Solo Journey 
+Events table for the consequences of this skill roll.
+ ♦ Reveal the nature of the event using an Event Detail 
+Table (see below).
+EVEnt dEt AIL
+To help envision the nature of an event, use an Event Detail 
+table to expand on the information provided by the Solo Jour-
+ney Events Table.
+First, select the appropriate table for the type of event, 
+and check your result by rolling one Success Die. To speed 
+things along, you can roll this Success Die alongside your 
+Feat Die when first rolling on the Solo Journey Events Table.
+Take a moment to envision the nature of the incident or 
+opportunity using the Event Detail prompt. If you need more 
+information, you can use the Telling Table (page 10) or 
+Lore Table (page 11) to answer questions about the event.
+Once you have imagined the event and your character’s 
+response, make the indicated skill roll. As described in the 
+standard journey rules, if the event takes place in a hex sug-
+gesting a hard terrain, lose (1d) on this roll. If the event hap-
+pens along a road, gain (1d).
+Finally, resolve the scene using the consequence and 
+Fatigue Points gained or lost as shown in each Event Detail 
+table.
+EVENT DETAIL: TERRIBLE MISFORTUNE
+SUCCESS 
+DIE EVENT OUTCOME
+1 Dire confrontation Noteworthy Encounter
+2 Rival Predator HUNTING  to avoid 
+becoming the hunted
+3 Violent weather EXPLORE  to find shelter
+4 Hidden hazard AWARENESS  to avoid 
+stumbling into danger
+5 Dangerous terrain EXPLORE  to find a safer 
+route
+6 Stalking enemy AWARENESS  to spot the 
+foul presence
+CONSEQUENCES OF THE SKILL ROLL:  If the roll fails, the target 
+is Wounded.
+FATIGUE POINTS GAINED:  3
+SOLO JOURNEY EVENTS
+FEAT DIE EVENT CONSEQUENCES OF THE SKILL ROLL
+FATIGUE POINTS 
+GAINED
+Terrible Misfortune If the roll fails, you are Wounded. 3
+1 Despair If the roll fails, gain 2 Shadow points (Dread). 2
+2–3 Ill Choices If the roll fails, gain 1 Shadow point (Dread). 2
+4–7 Mishap If the roll fails, add 1 day to the length of the journey, and gain 1 addi-
+tional Fatigue.
+2
+8–9 Short Cut If the roll succeeds, reduce the length of the journey by 1 day. 1
+10 Chance- meeting If the roll succeeds, no Fatigue is gained, and you may improvise an 
+encounter favouring your Player- hero.
+1
+Joyful Sight If the roll succeeds regain 1 Hope. —
+Mike Lee (Order #51544154)
+
+===== PAGE 18 =====
+
+STRIDER MODE
+18
+EVENT DETAIL: DESPAIR
+SUCCESS 
+DIE EVENT OUTCOME
+1 Servants of the Enemy Noteworthy Encounter
+2 Torrential weather EXPLORE  to find the 
+least exposed path
+3 Nightmarish presence AWARENESS  to sense 
+the danger
+4 Fading vigour HUNTING  to gain 
+sustenance
+5 Corrupted site EXPLORE  to find your 
+way out
+6 Grisly scene or fore-
+boding portent
+AWARENESS  to be 
+forewarned
+CONSEQUENCES OF THE SKILL ROLL:  If the roll fails, gain 2 
+Shadow points (Dread).
+FATIGUE POINTS GAINED:  2
+EVENT DETAIL: ILL CHOICES
+SUCCESS 
+DIE EVENT OUTCOME
+1 Mismanaged 
+provisions
+HUNTING  to replenish 
+stores
+2 Wayward path EXPLORE  to retrace 
+your steps
+3 Overlooked hazard AWARENESS  to escape 
+safely
+4 Lost quarry HUNTING  to follow its 
+tracks
+5 Disorienting environs EXPLORE  to find your 
+way
+6 Haunting visions AWARENESS  to over -
+come darkness
+CONSEQUENCES OF THE SKILL ROLL:  If the roll fails, gain 
+1 Shadow point (Dread).
+FATIGUE POINTS GAINED:  2
+EVENT DETAIL: MISHAP
+SUCCESS 
+DIE EVENT OUTCOME
+1 Sparse wildlife HUNTING  to forage 
+what you can
+2 Lost direction EXPLORE  to find your 
+way
+3 Obstructed path AWARENESS  to spot a 
+way around
+4 Elusive quarry HUNTING  to track it 
+down
+5 Rough terrain EXPLORE  to safely 
+traverse
+6 Wandering enemies AWARENESS  to sense 
+their coming
+CONSEQUENCES OF THE SKILL ROLL:  If the roll fails, add 1 
+day to the length of the journey, and gain 1 additional 
+Fatigue.
+FATIGUE POINTS GAINED:  2
+EVENT DETAIL: SHORT CUT
+SUCCESS 
+DIE EVENT OUTCOME
+1 Game trail HUNTING  to traverse 
+the path
+2 Secluded path EXPLORE  to navigate 
+the wilds
+3 Helpful tracks AWARENESS  to follow 
+the tracks
+4 Animal guide HUNTING  to follow at a 
+distance
+5 Favourable weather EXPLORE  to make the 
+most of it
+6 Familiar waypoint AWARENESS  to recog-
+nize the landmark 
+CONSEQUENCES OF THE SKILL ROLL:  If the roll succeeds, 
+reduce the length of the journey by 1 day.
+FATIGUE POINTS GAINED:  1
+Mike Lee (Order #51544154)
+
+===== PAGE 19 =====
+
+AdVEnturInG PHASE
+19
+EVENT DETAIL: CHANCE MEETING
+SUCCESS 
+DIE EVENT OUTCOME
+1 Lone hunter HUNTING  to trade 
+stories
+2 Fellow traveller EXPLORE  to learn about 
+the path ahead
+3 Discreet watcher AWARENESS  to spot 
+them
+4 Noble beast HUNTING  to commune
+5 Secluded encampment EXPLORE  to find your 
+way off the beaten 
+path
+6 Auspicious gathering Noteworthy Encounter
+CONSEQUENCES OF THE SKILL ROLL:  If the roll succeeds, no 
+Fatigue is gained, and you may envision a favourable 
+encounter.
+FATIGUE POINTS GAINED:  1
+EVENT DETAIL: JOYFUL SIGHT
+SUCCESS 
+DIE EVENT OUTCOME
+1 Majestic creatures HUNTING  to observe 
+without startling them
+2 Inspiring vista EXPLORE  to reach a 
+vantage point
+3 Benevolent being AWARENESS  to sense 
+their presence
+4 Abundant foraging HUNTING  to replenish 
+your rations
+5 Ancient monument AWARENESS  to recog-
+nize its significance
+6 Peaceful sanctuary Noteworthy Encounter
+CONSEQUENCES OF THE SKILL ROLL:  If the roll succeeds, 
+regain 1 Hope.
+FATIGUE POINTS GAINED:  —
+notEWortHY EncountErS
+A Noteworthy Encounter result on an Event Detail table indi -
+cates an event which should not be resolved with a single 
+skill roll. Instead, give this event additional focus by treat -
+ing it as an extended encounter or scene. This scene might 
+incorporate skill rolls, combat, a council, or a Skill Endeav -
+our as appropriate. 
+You can also choose to translate any of the detailed event 
+results into a Noteworthy Encounter instead of using a single 
+skill test. In this way, you give a specific challenge or opportu-
+nity more focus if it is interesting to you or especially relevant 
+to your Player- hero or their quests. Overcoming a significant 
+challenge as part of a Noteworthy Event can then provide 
+experience as a Player- hero milestone (page 7).
+rESoLVInG EVEntS 
+For A  notEWortHY EncountEr
+For a noteworthy encounter which is not decided using a sin-
+gle skill roll, you still need to determine the overall outcome 
+when applying the consequences for your journey event. To 
+do so, decide if the event was ultimately favourable for your 
+character.
+ ♦ If you managed to overcome a challenge or had an 
+overall positive event, treat it as a successful skill roll.
+ ♦ If you failed to overcome a challenge, or faced severe 
+hardship or complications, use the failed result.
+MAKInG JournEYS coME ALIVE
+For a solo Player- hero, there may be a tendency to move 
+through the journey sequence without giving focus to the 
+ongoing narrative. Avoid this by taking the time to plan your 
+navigation as your character would, with the limited infor -
+mation available to them. Then, after each marching test 
+or event, imagine the details of the adventure. What is the 
+weather? What is the nature of the terrain and path? What 
+do you see or encounter? Where do you make camp and 
+how do those surroundings inspire you or put you on edge?
+Use the maps, area descriptions, and tables provided in 
+The One Ring core rulebook and supplements to help reveal 
+the nature of your surroundings. If you have a specific ques-
+tion, use the Telling Table (page 10). If you want inspiration 
+for the nature of an encounter or your surroundings, use the 
+Lore Table (page 11).
+JournEYS In cooPErA tIVE PLAY 
+When playing cooperatively without a Lore master, a small 
+Company of two Player- heroes can use the Strider Mode ver-
+sion of the journey rules described in this supplement. You 
+will not select roles, but should each describe your focus 
+Mike Lee (Order #51544154)
+
+===== PAGE 20 =====
+
+STRIDER MODE
+20
+during the journey and resolve events accordingly. Take care 
+to balance the focus of the events across both Player- heroes. 
+If you are unsure which Player- hero is the target of an event, 
+make a random roll to decide.
+A larger Company of three or more Player- heroes should 
+use the journey roles and sequence as detailed in The One 
+Ring core rulebook. This includes assigning journey roles.
+In either case, use the original version of the Journey 
+Events Table when playing cooperatively (page 112 of The 
+One Ring core rulebook) to properly include the Company 
+in the consequences of an event. As with solo play, you can 
+use the Event Detail tables for more insight into the nature 
+of an event.
+Fellowship Phase
+The Fellowship Phase is a player- driven segment of the game 
+where a Player- hero visits a safe haven to reflect on their 
+adventures, rest and recover, and undertake personal projects.
+The structure of the Fellowship Phase, as described on 
+pages 118–120 of The One Ring core rulebook, is unchanged 
+for solo players. You can set the duration and location of the 
+Fellowship Phase as appropriate to your current situation, 
+with a longer break for Yule approximately once every three 
+Fellowship Phases. You will perform updates to spend accu-
+mulated Experience Points gained through milestones, and 
+select one or more Undertakings.
+Take the time to imagine your Player- hero’s interactions 
+and activities during the Fellowship Phase. For the solo adven-
+turer, this is a welcome opportunity to bask in the warm glow 
+of community before setting off alone once again into the 
+wilds. Much of what defines the story of your character is how 
+they relate to others, and what personal goals they pursue 
+with the comfort of safety and time.
+SPIRITUAL RECOVERY  
+FOR SOLO PLAYER-  HEROES
+As detailed on page 119 of The One Ring core 
+rulebook, the Lore master would normally deter -
+mine the number of Shadow points to remove 
+during the Fellowship Phase. As a solo player, 
+you instead decide how many Shadow points to 
+remove based on how your actions have impacted 
+the fight against the encroaching Shadow.
+ ♦ If your actions have at least marginally 
+interfered with the return of the Shadow, 
+recover 1 Shadow point;
+ ♦ If your deeds have actively hindered or 
+damaged the Enemy, remove 2 Shadow 
+points;
+ ♦ If you have committed feats that would 
+gain the attention of the Dark Lord himself, 
+or at least one of his major servants, remove 
+3 Shadow points
+Mike Lee (Order #51544154)
+
+===== PAGE 21 =====
+
+APPEndIX: coLLEctEd tABLES
+21
+Appendix: Collected Tables
+EXPERIENCE MILESTONES
+MILESTONE REWARD
+Accept a mission from a patron 1 Adventure Point
+Achieve a notable personal goal 1 Adventure Point 
+and 1 Skill Point
+Complete a patron’s mission 1 Adventure Point 
+and 1 Skill Point
+Complete a meaningful journey 2 Skill Points
+Face a Noteworthy Encounter during 
+a journey
+1 Skill Point
+Reveal a significant location or 
+discovery
+1 Adventure Point
+Overcome a tricky obstacle 1 Skill point
+Participate in a Council 1 Skill Point
+Survive a dangerous combat 1 Adventure Point
+Face a Revelation Episode 1 Adventure Point
+FORTUNE TABLE 
+FEAT DIE RESULT
+The Eye of the Enemy focuses elsewhere. 
+Decrease Eye Awareness by 1.
+1 You may bypass a threat without attracting notice
+2 You gain the attention of a potential ally
+3 An enemy inadvertently reveals their position
+4 You gain favoured ground
+5 Enemies run afoul of danger
+6 You locate or learn of a useful item
+7 Your success instils new hope or renewed 
+resolve
+8 You find a moment of comfort or safety
+9 You learn or realize something which gives 
+helpful insight into your mission
+10 You encounter an opportunity suited to your 
+nature or abilities
+An unexpected ally appears or sends aid
+ILL-  FORTUNE TABLE
+FEAT DIE RESULT
+Your actions catch the Eye of the Enemy. 
+Increase Eye Awareness by 2.
+1 You draw unwanted attention
+2 Your actions are observed by someone of 
+ill- intent
+3 Unexpected enemies emerge or are sighted
+4 You are hindered by difficult terrain or an unfa-
+vourable environment
+5 You find yourself ill- equipped for the 
+circumstances
+6 A favoured weapon or item is lost, broken, or 
+sacrificed
+7 You are plagued by troubling visions or 
+thoughts
+8 An old injury or stress resurfaces
+9 You learn or realize something which adds a 
+new complication to your mission
+10 You face a test which is contrary to your nature 
+or abilities
+An ally becomes a hindrance or liability
+TELLING TABLE
+CHANCE
+ROLL A FEAT DIE.  
+THE ANSWER IS YES  IF YOU ROLL...
+Certain 1 or greater
+Likely 4 or greater
+Middling 6 or greater
+Doubtful 8 or greater
+Unthinkable 10
+ : Always yes, with an extreme result or twist
+  : Always no, with an extreme result or twist
+Mike Lee (Order #51544154)
+
+===== PAGE 22 =====
+
+STRIDER MODE
+22
+THE LORE TABLE
+FEAT DIE: 
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Abandon Corrupted Curse
+2 Attack Cruel Despair
+3 Betray Deceptive Enemy
+4 Corrupt Fell Fear
+5 Defeat Ruined Shadow
+6 Weaken Treacherous War
+FEAT DIE: 
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Believe Flourishing Courage
+2 Bolster Beautiful Duty
+3 Defend Good Fellowship
+4 Forgive Kind Hope
+5 Resist Gentle Love
+6 Strengthen Wondrous Peace
+FEAT DIE: 1
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Aid Active Battle
+2 Arrive Ancient Border
+3 Await Bold Burden
+4 Breach Bright Council
+5 Break Broken Court
+6 Capture Cheerless Creature
+FEAT DIE: 2
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Change Cold Darkness
+2 Chase Concealed Death
+3 Command Dangerous Defence
+4 Control Dark Depths
+5 Create Dead Doubt
+6 Defy Defended Dreams
+FEAT DIE: 3
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Demand Desolate Fate
+2 Discover Destroyed Fire
+3 Disguise Dreadful Folk
+4 Endure Empty Followers
+5 Escape Evil Greed
+6 Evade Faded Haven
+FEAT DIE: 4
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Explore Far- reaching History
+2 Find Fierce Honour
+3 Focus Foreboding Journey
+4 Gather Forgotten Kindred
+5 Guard Fragile Knowledge
+6 Guide Ghastly Land
+FEAT DIE: 5
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Hide Gloomy Leader
+2 Hinder Growing Legend
+3 Hoard Hidden Life
+4 Hold Ill- fated Light
+5 Hunt Impenetrable Luck
+6 Journey inspiring Memory
+FEAT DIE: 6
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Lead Isolated Message
+2 Learn Lofty Might
+3 Leave Lost Nature
+4 Lose Menacing Pain
+5 Mourn Mighty Path
+6 Move Mysterious Patron
+Mike Lee (Order #51544154)
+
+===== PAGE 23 =====
+
+APPEndIX: coLLEctEd tABLES
+23
+FEAT DIE: 7
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Persist Noble Peril
+2 Preserve Obstructed Plan
+3 Prevent Old Power
+4 Refuse Ominous Prophecy
+5 Reject Open Quest
+6 Remove Peaceful Refuge
+FEAT DIE: 8
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Replenish Restored Riddle
+2 Restore Sheltered Ruins
+3 Scheme Silent Rumour
+4 Search Simple Secret
+5 Seize Small Skill
+6 Share Sombre Song
+FEAT DIE: 9
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Slay Stony Story
+2 Steal Stout Strength
+3 Summon Stricken Time
+4 Surrender Stubborn Tool
+5 Surround Twisted Treasure
+6 Threaten Unnatural Trust
+FEAT DIE: 10
+SUCCESS 
+DIE ACTION ASPECT FOCUS
+1 Transform Veiled Truth
+2 Trap Vigorous Vengeance
+3 Trick Weary Wealth
+4 Uncover Wild Weapon
+5 Uphold Wretched Wilds
+6 Withstand Young Wish
+SKILL SPECIAL SUCCESS TABLE
+SPEND 1 SUCCESS 
+ICON TO… DESCRIPTION
+Gain Insight You gain additional information, not necessarily related to the task at hand. For example, while helping a 
+sick individual with a HEALING  roll you discover the trace of poison. Or you spot a sentry while sneaking 
+into a ruin with a roll of STEALTH .
+Go quietly You achieve your goal noiselessly or without otherwise attracting attention.
+Make haste You complete the attempted task in a shorter time (about half the expected time).
+Widen Influence You can influence more than the specific number of subjects originally targeted by the action. As a 
+general rule, each Success icon spent corresponds to one additional subject or group of subjects. For 
+example, following a roll of INSIGHT , you spot a second person acting suspiciously at an inn; a roll of 
+ENHEARTEN  aimed to affect half a dozen individuals allows you to influence a full dozen.
+Build advantage You carry forward your success to improve your position or confidence for a related task; gain (1d) on your 
+next skill roll.
+Cancel a Failure If playing co- op with other players, you help another Player- hero who failed within the scope of the same 
+skill roll; the failed roll is considered a success.
+Mike Lee (Order #51544154)
+
+===== PAGE 24 =====
+
+STRIDER MODE
+24
+RISK LEVELS
+RISK LEVEL THE FAILED ROLL RESULTS IN… EXAMPLES
+Standard Simple Failure,  
+OR Success with Woe
+Eluding the watch of a Bounder in the Shire, entertaining a crowd of inebriated 
+patrons at an inn, climbing a tall tree.
+Hazardous Failure with Woe Stealing mushrooms from a farm guarded by ferocious dogs, climbing atop a 
+crumbling tower, or trying to swim the waters of a swift- running river.
+Foolish Disaster! Picking the pockets of a hungry Troll, playing a riddle game with a Dragon, or 
+bandying words with an angry Wizard.
+SOLO JOURNEY EVENTS
+FEAT DIE EVENT CONSEQUENCES OF THE SKILL ROLL
+FATIGUE POINTS 
+GAINED
+Terrible Misfortune If the roll fails, you are Wounded. 3
+1 Despair If the roll fails, gain 2 Shadow points (Dread). 2
+2–3 Ill Choices If the roll fails, gain 1 Shadow point (Dread). 2
+4–7 Mishap If the roll fails, add 1 day to the length of the journey, and gain 1 addi-
+tional Fatigue.
+2
+8–9 Short Cut If the roll succeeds, reduce the length of the journey by 1 day. 1
+10 Chance- meeting If the roll succeeds, no Fatigue is gained, and you may improvise an 
+encounter favouring your Player- hero.
+1
+Joyful Sight If the roll succeeds regain 1 Hope. —
+EVENT DETAIL: TERRIBLE MISFORTUNE
+SUCCESS 
+DIE EVENT OUTCOME
+1 Dire confrontation Noteworthy Encounter
+2 Rival Predator HUNTING  to avoid 
+becoming the hunted
+3 Violent weather EXPLORE  to find shelter
+4 Hidden hazard AWARENESS  to avoid 
+stumbling into danger
+5 Dangerous terrain EXPLORE  to find a safer 
+route
+6 Stalking enemy AWARENESS  to spot the 
+foul presence
+CONSEQUENCES OF THE SKILL ROLL:  If the roll fails, the target 
+is Wounded.
+FATIGUE POINTS GAINED:  3
+EVENT DETAIL: DESPAIR
+SUCCESS 
+DIE EVENT OUTCOME
+1 Servants of the Enemy Noteworthy Encounter
+2 Torrential weather EXPLORE  to find the 
+least exposed path
+3 Nightmarish presence AWARENESS  to sense 
+the danger
+4 Fading vigour HUNTING  to gain 
+sustenance
+5 Corrupted site EXPLORE  to find your 
+way out
+6 Grisly scene or fore-
+boding portent
+AWARENESS  to be 
+forewarned
+CONSEQUENCES OF THE SKILL ROLL:  If the roll fails, gain 2 
+Shadow points (Dread).
+FATIGUE POINTS GAINED:  2
+Mike Lee (Order #51544154)
+
+===== PAGE 25 =====
+
+APPEndIX: coLLEctEd tABLES
+25
+EVENT DETAIL: ILL CHOICES
+SUCCESS 
+DIE EVENT OUTCOME
+1 Mismanaged 
+provisions
+HUNTING  to replenish 
+stores
+2 Wayward path EXPLORE  to retrace 
+your steps
+3 Overlooked hazard AWARENESS  to escape 
+safely
+4 Lost quarry HUNTING  to follow its 
+tracks
+5 Disorienting environs EXPLORE  to find your 
+way
+6 Haunting visions AWARENESS  to over -
+come darkness
+CONSEQUENCES OF THE SKILL ROLL:  If the roll fails, gain 
+1 Shadow point (Dread).
+FATIGUE POINTS GAINED:  2
+EVENT DETAIL: MISHAP
+SUCCESS 
+DIE EVENT OUTCOME
+1 Sparse wildlife HUNTING  to forage 
+what you can
+2 Lost direction EXPLORE  to find your 
+way
+3 Obstructed path AWARENESS  to spot a 
+way around
+4 Elusive quarry HUNTING  to track it 
+down
+5 Rough terrain EXPLORE  to safely 
+traverse
+6 Wandering enemies AWARENESS  to sense 
+their coming
+CONSEQUENCES OF THE SKILL ROLL:  If the roll fails, add 1 
+day to the length of the journey, and gain 1 additional 
+Fatigue.
+FATIGUE POINTS GAINED:  2
+EVENT DETAIL: SHORT CUT
+SUCCESS 
+DIE EVENT OUTCOME
+1 Game trail HUNTING  to traverse 
+the path
+2 Secluded path EXPLORE  to navigate 
+the wilds
+3 Helpful tracks AWARENESS  to follow 
+the tracks
+4 Animal guide HUNTING  to follow at a 
+distance
+5 Favourable weather EXPLORE  to make the 
+most of it
+6 Familiar waypoint AWARENESS  to recog-
+nize the landmark 
+CONSEQUENCES OF THE SKILL ROLL:  If the roll succeeds, 
+reduce the length of the journey by 1 day.
+FATIGUE POINTS GAINED:  1
+EVENT DETAIL: CHANCE MEETING
+SUCCESS 
+DIE EVENT OUTCOME
+1 Lone hunter HUNTING  to trade 
+stories
+2 Fellow traveller EXPLORE  to learn about 
+the path ahead
+3 Discreet watcher AWARENESS  to spot 
+them
+4 Noble beast HUNTING  to commune
+5 Secluded encampment EXPLORE  to find your 
+way off the beaten 
+path
+6 Auspicious gathering Noteworthy Encounter
+CONSEQUENCES OF THE SKILL ROLL:  If the roll succeeds, no 
+Fatigue is gained, and you may envision a favourable 
+encounter.
+FATIGUE POINTS GAINED:  1
+Mike Lee (Order #51544154)
+
+===== PAGE 26 =====
+
+STRIDER MODE
+26
+EVENT DETAIL: JOYFUL SIGHT
+SUCCESS 
+DIE EVENT OUTCOME
+1 Majestic creatures HUNTING  to observe 
+without startling them
+2 Inspiring vista EXPLORE  to reach a 
+vantage point
+3 Benevolent being AWARENESS  to sense 
+their presence
+4 Abundant foraging HUNTING  to replenish 
+your rations
+5 Ancient monument AWARENESS  to recog-
+nize its significance
+6 Peaceful sanctuary Noteworthy Encounter
+CONSEQUENCES OF THE SKILL ROLL:  If the roll succeeds, 
+regain 1 Hope.
+FATIGUE POINTS GAINED:  —
+HUNT THRESHOLD REGION TABLE
+THE REGION TRAVERSED IS A… HUNT THRESHOLD
+Border Land 18
+Wild Land 16
+Dark Land 14
+HUNT MODIFIERS TABLE
+HUNT 
+MODIFIER DESCRIPTION
++4 The Player- hero is protected by the blessing 
+of a Wizard, or another powerful character
++2 The Player- hero is travelling under a false 
+name, treading paths that are seldom trod-
+den, or otherwise taking actions to be discreet 
+and unobtrusive
+−2 The Player- hero has gained great renown in 
+the area thanks to some exceptional deed
+−4 The Enemy is actively looking for the Player-  
+hero, or their mission or goal is known to 
+them
+REVELATION EPISODE TABLE
+FEAT DIE EPISODE
+Internal strife or an external threat puts your 
+Safe Haven in peril
+1 Unexpected danger arises on the path ahead, 
+forcing you to seek a new route
+2 Nature is corrupted and turns against you
+3 Spies of the Enemy carry word of your mission
+4 Enemy minions launch an ambush or lay a trap
+5 Enemy minions pick up your trail
+6 An important location is overtaken by an enemy
+7 An item you carry holds a curse, or is hunted by 
+an enemy
+8 You are tempted by something greatly desired, 
+to the detriment of your mission
+9 Malicious lies cause others to mistrust or 
+fear you
+10 Conflict brews between allies
+An important ally is put in danger
+PATRON QUESTS: BALIN, SON OF FUNDIN
+SUCCESS 
+DIE QUEST
+1 Dark whispers plague a Dwarven territory. 
+What nameless Shadow lurks in the wilds?
+2 This broken artifact could be a potent weapon 
+against the enemy. What is this item, and who 
+wields the skill to reforge it?
+3 The Dwarven ruins hold great secrets — and 
+weapons against the Enemy. What is the nature 
+of these ruins, and what treasures do they hold?
+4 A powerful comrade has fallen in battle against 
+the Enemy. Who are they, and what did they 
+carry vital to our survival?
+5 A Dwarven stronghold now lies with the Enemy. 
+Who leads these foul creatures, and how have 
+they defiled our sacred site?
+6 A powerful lieutenant of the Enemy grows in 
+power. Who is this shadowy figure, and how 
+have they amassed followers?
+Mike Lee (Order #51544154)
+
+
+===== PAGE 27 =====
+
+APPEndIX: coLLEctEd tABLES
+27
+PATRON QUESTS: BILBO BAGGINS
+SUCCESS 
+DIE QUEST
+1 This particular delicacy is a rare treat. What is 
+this precious item, and where can it be found?
+2 Scout the area and make a note of significant 
+landmarks to aid cartography. How has the land 
+changed?
+3 The roads grow dark and perilous. What vital 
+missive do you carry, and to whom must it be 
+delivered?
+4 An ancient text confounds attempts to decipher 
+it. What is the nature of this text, and who pos -
+sesses the knowledge to translate it?
+5 The Enemy holds a map of special significance. 
+What secrets does this map hold, and why is it 
+vital?
+6 An artifact of great importance has resurfaced. 
+What is this item, and why must we find it 
+before the enemy does?
+PATRON QUESTS: CIRDAN THE SHIPWRIGHT
+SUCCESS 
+DIE QUEST
+1 Supplies wane as the Enemy draws near. What 
+vital resource for the building of ships must you 
+deliver?
+2 An ancient enemy of the Elves has resurfaced 
+and made themselves known. Who are they, 
+and what grudge do they bear?
+3 Hope falters in these dark days, so travel to a 
+remote beacon and rekindle its flame. What 
+shadowy presence seeks to prevent this?
+4 Our missives fall into the hands of the Enemy. 
+What fate befalls our messengers?
+5 An artifact of great importance to the Elves is 
+carried by a servant of the Enemy. Who is this 
+creature, and why do they covet the artifact?
+6 The ships of the Grey Havens are fashioned 
+from sacred wood. What malady taints these 
+trees?
+PATRON QUESTS: GANDALF THE GREY
+SUCCESS 
+DIE QUEST
+1 The people need hope in these dark times. 
+Where is this remote settlement, and what 
+good news do you bring?
+2 Carry word of the Enemy’s movements to our 
+trusted ally. Who is this ally, and how can they 
+aid us?
+3 A possible ally has made themselves known 
+to us. Who is this ally, and what must we do to 
+earn their trust?
+4 Our vision is clouded, our path uncertain. We 
+must capture a servant of the Enemy. Who are 
+they, and what do they know?
+5 News has reached us of a terrible weapon the 
+Enemy means to bear. What is this weapon, and 
+who wields it?
+6 The Shadow has captured an ally. Who is this 
+ally, and where are they imprisoned?
+PATRON QUESTS: GILRAEN, 
+DAUGHTER OF DIRHAEL
+SUCCESS 
+DIE QUEST
+1 A Ranger has gone missing. What has become 
+of them?
+2 A powerful servant of the Enemy lurks nearby. 
+Who are they, and why do they target our 
+Rangers?
+3 Enemy patrols prowl along the road, targeting 
+merchants and supply wagons. Who leads these 
+deadly patrols?
+4 A settlement has come under the eye of the 
+Shadow. Why is this place significant?
+5 Monstrous servants of the Enemy encroach. 
+What manner of weapon do they carry?
+6 We’ve received no word from a remote Ranger 
+refuge. What fate has befallen our allies?
+Mike Lee (Order #51544154)
+
+===== PAGE 28 =====
+
+STRIDER MODE
+28
+PATRON QUESTS: TOM BOMBADIL 
+AND LADY GOLDBERRY
+SUCCESS 
+DIE QUEST
+1 Creatures of the wilds have come under a dark 
+affliction. What is this sickness, and what rare 
+ingredient holds the key to a cure?
+2 A sacred spring runs black with some malady of 
+the Shadow. What taints this source, and what 
+manner of foul creature guards it?
+3 A group of travellers seeks escort through the 
+wilds. Who are they, and what is their vital 
+mission?
+4 The Shadow corrupts a sacred site. What is this 
+place, and what foul presence now taints it?
+5 A precious flower blooms for the first time in 
+many years. What is this plant, and why is it so 
+vital?
+6 An ancient, sacred tree hosts a foul presence. 
+What is this shadow, and can it be purged?
+USING OTHER TABLES
+The One Ring core rulebook and supplements pro -
+vide a variety of region- specific tables useful for 
+your Strider Mode campaigns. Use those tables to 
+inspire locations, encounters, quests, and more. 
+Strider, The One Ring, Middle-earth, and The Lord of the Rings and the characters, items, events, and places therein  
+are trademarks or registered trademarks of the Saul Zaentz Company d/b/a Middle-earth Enterprises (SZC)  
+and are used under license by Sophisticated Games Ltd. and their respective licensees. All rights reserved.
+LEAD WRITERS
+Shawn Tomkin and Matt Click
+THE ONE RING™ RULES DESIGN
+Francesco Nepitello and Marco Maggi
+ART
+Alvaro Tapia, Jan Pospíšil, Melissa Spandri,  
+Luca Sotgiu, Federica Costantini
+GRAPHIC DESIGN
+Dan Algstrand, Christian Granath,  
+Niklas Brandt
+PROOFREADING
+Brandon Bowling
+LINE MANAGERS
+Francesco Nepitello, Martin Takaichi
+PROJECT MANAGER
+Tomas Härenstam
+BRAND MANAGER
+Robert Hyde / Sophisticated Games
+PLAYTESTERS
+Martin Takaichi, Sofia Peralta,  
+Matt Kay, Lorenzo Perassi
+Mike Lee (Order #51544154)

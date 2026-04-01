@@ -1,0 +1,208 @@
+{
+  "system": {
+    "name": "The One Ring 2E - Strider Mode",
+    "sourceFile": "sourcebooks/The_One_Ring™_Strider™_Mode.pdf",
+    "mode": "solo"
+  },
+  "actionResolution": {
+    "soloTargetNumberRule": "TN = 18 - attribute",
+    "featDieNarrativeTriggers": {
+      "gandalfRuneOnSuccess": "fortune_event",
+      "eyeOfSauronOnFailure": "ill_fortune_event"
+    },
+    "specialSuccess": {
+      "spendIconOptions": [
+        "gain_insight",
+        "go_quietly",
+        "make_haste",
+        "widen_influence",
+        "build_advantage",
+        "cancel_failure_coop_only"
+      ]
+    },
+    "riskLevels": [
+      {
+        "level": "standard",
+        "failureOutcome": ["simple_failure", "success_with_woe"]
+      },
+      {
+        "level": "hazardous",
+        "failureOutcome": ["failure_with_woe"]
+      },
+      {
+        "level": "foolish",
+        "failureOutcome": ["disaster"]
+      }
+    ]
+  },
+  "tables": {
+    "tellingTable": {
+      "certain": 1,
+      "likely": 4,
+      "middling": 6,
+      "doubtful": 8,
+      "unthinkable": 10,
+      "gandalfRune": "yes_with_twist",
+      "eyeOfSauron": "no_with_twist"
+    },
+    "fortuneTable": [
+      "enemy_focus_elsewhere_reduce_eye_awareness_1",
+      "bypass_threat_unnoticed",
+      "gain_potential_ally_attention",
+      "enemy_reveals_position",
+      "gain_favored_ground",
+      "enemies_hit_danger",
+      "find_or_learn_useful_item",
+      "renewed_hope_or_resolve",
+      "moment_of_comfort_or_safety",
+      "helpful_insight_for_mission",
+      "opportunity_suited_to_hero",
+      "unexpected_ally_or_aid"
+    ],
+    "illFortuneTable": [
+      "eye_on_you_increase_eye_awareness_2",
+      "draw_unwanted_attention",
+      "observed_by_ill_intent",
+      "unexpected_enemies",
+      "difficult_terrain_or_environment",
+      "ill_equipped_for_circumstances",
+      "weapon_or_item_lost_broken_sacrificed",
+      "troubling_visions_or_thoughts",
+      "old_injury_or_stress_returns",
+      "new_complication_to_mission",
+      "test_contrary_to_nature_or_abilities",
+      "ally_becomes_liability"
+    ],
+    "loreTable": {
+      "usage": "prompt generator for action/aspect/focus",
+      "dice": "1 feat die + 1 success die"
+    }
+  },
+  "eyeOfMordor": {
+    "startingEyeAwareness": {
+      "base": 0,
+      "plus1_if": ["valour_gte_4", "is_dwarf"],
+      "plus2_if": ["is_elf_or_dunedain"],
+      "plus3_if": ["is_high_elf"],
+      "plus1_per": ["famous_weapon_or_armour_carried"]
+    },
+    "increaseTriggers": [
+      "outside_combat_roll_with_eye_icon_plus1",
+      "outside_combat_shadow_gain_plus_same_amount",
+      "magical_success_may_increase",
+      "ill_fortune_auto_entry_plus2_in_addition"
+    ],
+    "huntThreshold": {
+      "regionBase": {
+        "border": 18,
+        "wild": 16,
+        "dark": 14
+      },
+      "modifiers": [
+        "+4 wizard_or_powerful_protection",
+        "+2 discreet_travel_or_false_name",
+        "-2 great_renown_in_area",
+        "-4 enemy_actively_hunting_or_mission_known"
+      ]
+    },
+    "revelationEpisodes": [
+      "safe_haven_in_peril",
+      "danger_forces_new_route",
+      "nature_turns_against_you",
+      "spies_report_your_mission",
+      "enemy_ambush_or_trap",
+      "enemy_picks_up_your_trail",
+      "important_location_overtaken",
+      "cursed_or_hunted_item",
+      "temptation_against_mission",
+      "lies_cause_mistrust",
+      "conflict_between_allies",
+      "important_ally_in_danger"
+    ],
+    "onReveal": "reset_eye_awareness_to_starting"
+  },
+  "combat": {
+    "addsSkirmishStance": {
+      "canOnlyUse": "ranged_weapons",
+      "melee_attackers_against_you": "lose_1d",
+      "ranged_attackers_against_you": "no_penalty",
+      "your_ranged_attacks": "lose_1d",
+      "escapeRule": "make_ranged_attack_without_skirmish_penalty; success = escape_without_damage",
+      "combatTask": "gain_ground"
+    },
+    "gainGroundTask": {
+      "skill": ["athletics", "scan"],
+      "effectOnSuccess": "gain_1d_next_ranged_attack_plus_1d_per_icon"
+    }
+  },
+  "councils": {
+    "resistance": [3, 6, 9],
+    "soloGuidance": "use telling/lore tables to drive NPC responses when uncertain"
+  },
+  "journeys": {
+    "roles": "not_used_in_solo",
+    "eventResolution": {
+      "eventTarget": "always_player_hero",
+      "eventSkillsUsed": ["explore", "awareness", "hunting"],
+      "regionFeatDieMode": {
+        "border": "favoured",
+        "wild": "normal",
+        "dark": "ill_favoured"
+      }
+    },
+    "soloJourneyEvents": {
+      "terrible_misfortune": {
+        "fatigue": 3,
+        "onFail": "wounded"
+      },
+      "despair": {
+        "fatigue": 2,
+        "onFail": "gain_2_shadow_dread"
+      },
+      "ill_choices": {
+        "fatigue": 2,
+        "onFail": "gain_1_shadow_dread"
+      },
+      "mishap": {
+        "fatigue": 2,
+        "onFail": "plus_1_day_journey_plus_1_fatigue"
+      },
+      "short_cut": {
+        "fatigue": 1,
+        "onSuccess": "minus_1_day_journey"
+      },
+      "chance_meeting": {
+        "fatigue": 1,
+        "onSuccess": "no_fatigue_and_favorable_encounter"
+      },
+      "joyful_sight": {
+        "fatigue": 0,
+        "onSuccess": "regain_1_hope"
+      }
+    },
+    "noteworthyEncounter": {
+      "description": "extended scene instead of single roll",
+      "countsAsMilestone": true
+    }
+  },
+  "fellowshipPhase": {
+    "structure": "same_as_core",
+    "spiritualRecoverySolo": {
+      "removeShadow1": "if_marginally_interfered_with_shadow",
+      "removeShadow2": "if_actively_hindered_enemy",
+      "removeShadow3": "if_feat_would_draw_dark_lord_or_major_servant_attention"
+    }
+  },
+  "milestones": [
+    {"trigger": "accept_patron_mission", "reward": "1_adventure_point"},
+    {"trigger": "achieve_notable_personal_goal", "reward": "1_adventure_point_and_1_skill_point"},
+    {"trigger": "complete_patron_mission", "reward": "1_adventure_point_and_1_skill_point"},
+    {"trigger": "complete_meaningful_journey", "reward": "2_skill_points"},
+    {"trigger": "face_noteworthy_encounter_during_journey", "reward": "1_skill_point"},
+    {"trigger": "reveal_significant_location_or_discovery", "reward": "1_adventure_point"},
+    {"trigger": "overcome_tricky_obstacle", "reward": "1_skill_point"},
+    {"trigger": "participate_in_council", "reward": "1_skill_point"},
+    {"trigger": "survive_dangerous_combat", "reward": "1_adventure_point"},
+    {"trigger": "face_revelation_episode", "reward": "1_adventure_point"}
+  ]
+}
